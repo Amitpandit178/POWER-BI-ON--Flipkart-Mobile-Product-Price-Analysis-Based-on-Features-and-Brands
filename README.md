@@ -153,9 +153,9 @@ Finds the statistical correlation between *price and customer ratings*.
 ---
 
 ## 📩*For queries, contributions, or collaborations, feel free to reach out:*
-- Amarendra Nayak
-- Amit Pandit and Jagyansu Padhy
-- Contact 📧: toamarendranayak@gmail.com ,amitpandit175@gmail.com and jagyansup@gmail.com
+- Amit Pandit
+- Amarendra Nayak and Jagyansu Padhy
+- Contact 📧: amitpandit175@gmail.com, toamarendranayak@gmail.com and jagyansup@gmail.com
 
 ---
 
