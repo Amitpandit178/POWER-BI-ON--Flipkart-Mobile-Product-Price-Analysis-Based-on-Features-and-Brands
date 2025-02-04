@@ -1,0 +1,776 @@
+,brand,device_name,model,color,ram,rom,is_5g,processor_brand,processor,display_size,frontcamera,backcamera,battery,price,ratings
+0,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+1,Samsung,Samsung Galaxy F05 , Galaxy F05 ,Twilight Blue,4,64,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,6499,29063
+2,Motorola,Motorola g45 5G , g45 5G ,Viva Magenta,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,11999,91608
+3,Motorola,Motorola g45 5G , g45 5G ,Brilliant Blue,4,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,9999,24083
+4,Motorola,Motorola g45 5G , g45 5G ,Brilliant Green,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,11999,91608
+5,Poco,Poco C61 , C61 ,Diamond Dust Black,4,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,5999,70039
+6,Motorola,Motorola g05 , g05 ,Forest Green,4,64,False,Mediatek,Mediatek Helio G81 ,6.67 , 8MP ,50MP Rear Camera ,5200,6999,2783
+7,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Light Green,6,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,8450,141
+8,Motorola,Motorola g45 5G , g45 5G ,Viva Magenta,4,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,9999,24083
+9,Poco,Poco C61  - Locked with Airtel Prepaid , C61  - Locked with Airtel Prepaid ,Diamond Dust Black,4,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,5499,70039
+10,Motorola,Motorola g05 , g05 ,Plum Red,4,64,False,Mediatek,Mediatek Helio G81 ,6.67 , 8MP ,50MP Rear Camera ,5200,6999,2783
+11,Motorola,Motorola g45 5G , g45 5G ,Brilliant Blue,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,11999,91608
+12,Poco,Poco C61 , C61 ,Ethereal Blue,4,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,5999,70039
+14,Redmi,Redmi 13 5G , 13 5G ,Orchid Pink,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,21179
+15,Poco,Poco M6 5G , M6 5G ,Polaris Green,4,64,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,7749,130614
+17,Motorola,Motorola Edge 50 Fusion , Edge 50 Fusion ,Marshmallow Blue,8,128,False,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 13MP ,5000,21999,94107
+19,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sleek Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,10999,10270
+21,Realme,Realme C61 , C61 ,Marble Black,6,128,False,Unisoc,Unisoc T612 ,6.745 , 5MP ,32MP Rear Camera ,5000,8199,8698
+22,Poco,Poco M6 5G , M6 5G ,Galactic Black,4,64,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,7749,130614
+23,Motorola,Motorola g45 5G , g45 5G ,Brilliant Green,4,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,9999,24083
+24,Oppo,Oppo K12x 5G with 45W SUPERVOOC Charger In-The-Box , K12x 5G with 45W SUPERVOOC Charger In-The-Box ,Breeze Blue,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP + 2MP ,5100,12999,124863
+25,Motorola,Motorola Edge 50 Fusion , Edge 50 Fusion ,Marshmallow Blue,12,256,False,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 13MP ,5000,23999,106810
+26,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+27,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Silver,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+28,Vivo,Vivo T3x 5G , T3x 5G ,Crimson Bliss,4,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7165354 , 8MP ,50MP + 2MP ,6000,12499,47235
+29,Realme,Realme P1 5G , P1 5G ,Phoenix Red,6,128,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 2MP ,5000,13999,79859
+30,Realme,Realme C63 5G Charger in the Box , C63 5G Charger in the Box ,Forest Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP Rear Camera ,5000,12999,2017
+33,Realme,Realme P1 5G , P1 5G ,Feather Blue,6,128,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 2MP ,5000,13999,79859
+34,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Green,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+35,Motorola,Motorola g64 5G , g64 5G ,Mint Green,12,256,True,Mediatek,Mediatek Dimensity 7025 ,6.5 , 16MP ,50MP (OIS) + 8MP ,6000,15999,64681
+36,Infinix,Infinix SMART 8 , SMART 8 ,Timber Black,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+37,Redmi,Redmi 13C 5G , 13C 5G ,Starlight Black,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+40,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Eagle Grey,8,128,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,19999,7136
+41,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Silver,6,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,9498,141
+43,Motorola,Motorola G85 5G , G85 5G ,Cobalt Blue,12,256,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,19999,51121
+44,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Vibrant Blue,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+45,Vivo,Vivo T3 Lite 5G , T3 Lite 5G ,Vibrant Green,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 2MP ,5000,11499,75347
+46,Poco,Poco X6 Neo 5G , X6 Neo 5G ,Astral Black,8,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,11999,34988
+48,Realme,Realme P1 5G , P1 5G ,Peacock Green,8,256,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 2MP ,5000,16999,41401
+50,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+51,Poco,Poco C75 5G , C75 5G ,Enchanted Green,4,64,True,Snapdragon,Snapdragon 4s Gen 2 5G ,6.88 , 5MP ,50MP Rear Camera ,5160,7999,8899
+53,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Lime Green,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,12999,2714
+54,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Palm Blue,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,12999,2714
+55,Vivo,Vivo V40e 5G , V40e 5G ,Royal Bronze,8,256,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,28999,4765
+57,Oppo,Oppo K12x 5G with 45W SUPERVOOC Charger In-The-Box , K12x 5G with 45W SUPERVOOC Charger In-The-Box ,Feather Pink,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP + 2MP ,5100,12999,124863
+58,Motorola,Motorola G85 5G , G85 5G ,Olive Green,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,17999,133191
+59,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Silver,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11299,32765
+60,Poco,Poco C75 5G , C75 5G ,Aqua Bliss,4,64,True,Snapdragon,Snapdragon 4s Gen 2 5G ,6.88 , 5MP ,50MP Rear Camera ,5160,7999,8899
+61,Infinix,Infinix SMART 8 , SMART 8 ,Rainbow Blue,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+62,Realme,Realme P1 5G , P1 5G ,Feather Blue,8,128,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 2MP ,5000,14999,41401
+63,Redmi,Redmi Note 13 5G , Note 13 5G ,Stealth Black,6,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,14999,27310
+67,Motorola,Motorola G85 5G , G85 5G ,Viva Magenta,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,17999,133191
+68,Vivo,Vivo T3x 5G , T3x 5G ,Crimson Bliss,6,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7165354 , 8MP ,50MP + 2MP ,6000,13999,126469
+69,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Palm Blue,12,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,13999,21357
+71,Poco,Poco M6 5G , M6 5G ,Orion Blue,4,64,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,7749,130614
+72,Motorola,Motorola Edge 50 Fusion , Edge 50 Fusion ,Hot Pink,12,256,False,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 13MP ,5000,23999,106810
+73,Motorola,Motorola g35 5G , g35 5G ,Guava Red,4,128,True,Unisoc,Unisoc T760 ,6.72 , 16MP ,50MP + 8MP | 16MP Front Camera5000 mAh BatteryT760 Processor12 5G Bands with VoNR|4K Video Recording,5000,9999,11923
+75,Realme,Realme C63 5G Charger in the Box , C63 5G Charger in the Box ,Forest Green,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP Rear Camera ,5000,11999,11990
+76,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+77,Motorola,Motorola g64 5G , g64 5G ,Pearl Blue,12,256,True,Mediatek,Mediatek Dimensity 7025 ,6.5 , 16MP ,50MP (OIS) + 8MP ,6000,15999,64681
+78,Motorola,Motorola Edge 50 Fusion , Edge 50 Fusion ,Forest Green,12,256,False,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 13MP ,5000,23999,106810
+79,Poco,Poco X6 Neo 5G , X6 Neo 5G ,Horizon Blue,8,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,11999,34988
+80,Oppo,Oppo K12x 5G with 45W SUPERVOOC Charger In-The-Box , K12x 5G with 45W SUPERVOOC Charger In-The-Box ,Midnight Violet,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP + 2MP ,5100,12999,124863
+81,Motorola,Motorola G85 5G , G85 5G ,Cobalt Blue,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,17999,133191
+83,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sage Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,10999,10270
+84,Motorola,Motorola G85 5G , G85 5G ,Urban Grey,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,17999,133191
+85,Motorola,Motorola Edge 50 Pro 5G with 125W Charger , Edge 50 Pro 5G with 125W Charger ,Caneel Bay,12,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,29999,51803
+86,Motorola,Motorola g35 5G , g35 5G ,Leaf Green,4,128,True,Unisoc,Unisoc T760 ,6.72 , 16MP ,50MP + 8MP | 16MP Front Camera5000 mAh BatteryT760 Processor12 5G Bands with VoNR|4K Video Recording,5000,9999,11923
+87,Realme,Realme C63 5G Charger in the Box , C63 5G Charger in the Box ,Starry Gold,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP Rear Camera ,5000,12999,2017
+89,Realme,Realme P1 5G , P1 5G ,Peacock Green,6,128,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 2MP ,5000,13999,79859
+90,Motorola,Motorola G85 5G , G85 5G ,Urban Grey,12,256,True,Snapdragon,Snapdragon 6s Gen 3 ,6.67 , 32MP ,50MP + 8MP ,5000,19999,51121
+91,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Suede Grey,8,128,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,24999,479
+92,Vivo,Vivo T3 Pro 5G , T3 Pro 5G ,Emerald Green,8,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.77 , 16MP ,50MP + 8MP ,5500,24999,39039
+93,Realme,Realme 14x 5G , 14x 5G ,Crystal Black,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,14999,2393
+94,Poco,Poco M7 Pro 5G , M7 Pro 5G ,Lunar Dust,6,128,True,Mediatek,Mediatek Dimensity 7025 Ultra ,6.67 , 20MP ,50MP + 2MP ,5110,13999,2340
+95,Samsung,Samsung Galaxy F55 5G , Galaxy F55 5G ,Raisin Black,12,256,True,Snapdragon,Snapdragon 7 Gen 1 ,6.7 , 50MP ,50MP + 8MP + 2MP ,5000,26999,447
+96,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+97,Vivo,Vivo T3x 5G , T3x 5G ,Sapphire Blue,6,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.72 , 8MP ,50MP + 2MP ,6000,13999,126469
+98,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Crystal Green,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+99,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Timber Black,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+100,Realme,Realme GT 6 , GT 6 ,Fluid Silver,16,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,39999,3179
+101,Realme,Realme C63 , C63 ,Leather Blue,4,128,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8999,9019
+102,Realme,Realme 12x 5G , 12x 5G ,Woodland Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,99431
+103,Motorola,Motorola g64 5G , g64 5G ,Berry Red,12,256,True,Mediatek,Mediatek Dimensity 7025 ,6.5 , 16MP ,50MP (OIS) + 8MP ,6000,15999,64681
+104,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Eagle Grey,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,24999,4885
+105,Oppo,Oppo K12x 5G with 45W SUPERVOOC Charger In-The-Box , K12x 5G with 45W SUPERVOOC Charger In-The-Box ,Breeze Blue,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,32MP + 2MP ,5100,15999,16192
+106,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Magic Skin Green,4,64,False,Unisoc,Unisoc T616 Ocra Core ,6.67 , 8MP ,13MP Rear Camera ,5000,7299,3146
+107,Redmi,Redmi A3 , A3 ,Olive Green,6,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,11990,4746
+108,Vivo,Vivo T3 Lite 5G , T3 Lite 5G ,Vibrant Green,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 2MP ,5000,10499,51171
+109,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sage Green,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+110,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Magic Skin Green,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+111,Vivo,Vivo T3 Lite 5G , T3 Lite 5G ,Majestic Black,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 2MP ,5000,10499,51171
+112,Iqoo,Iqoo z9x , z9x ,Storm Grey,6,128,False,Snapdragon,  Snapdragon 6 Gen 1 ,6.72 , 8MP ,50MP + 2MP ,6000,13320,4924
+115,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Glittery White,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+116,Motorola,Motorola g45 5G , g45 5G ,Pink Lavender,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,11999,91608
+117,Realme,Realme 13+ 5G , 13+ 5G ,Victory Gold,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,21499,1821
+118,Vivo,Vivo V40e 5G , V40e 5G ,Royal Bronze,8,128,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,26999,4765
+119,Poco,Poco X6 Neo 5G , X6 Neo 5G ,Martian Orange,8,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,11999,34988
+120,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+122,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Eagle Grey,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,24999,4885
+123,Samsung,Samsung Galaxy S23 5G , Galaxy S23 5G ,Cream,8,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.1 , 12MP ,50MP + 10MP + 12MP ,3900,41999,70672
+124,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Eagle Grey,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+125,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Starlit Black,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,12999,2714
+127,Vivo,Vivo V40e 5G , V40e 5G ,Mint Green,8,128,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,26999,4765
+128,Vivo,Vivo V40e 5G , V40e 5G ,Mint Green,8,256,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,28999,4765
+129,Samsung,Samsung Galaxy S23 5G , Galaxy S23 5G ,Cream,8,128,True,Snapdragon, Snapdragon 8 Gen 2 ,6.1 , 12MP ,50MP + 10MP + 12MP ,3900,39999,70672
+130,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Graphite,8,256,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,50999,193
+131,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,8,128,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,19999,7136
+132,Motorola,Motorola Edge 50 Pro 5G with 68W Charger , Edge 50 Pro 5G with 68W Charger ,Luxe Lavender,8,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,27999,33123
+133,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Graphite,8,128,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,44999,193
+134,Realme,Realme C63 , C63 ,Jade Green,4,64,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8499,9019
+135,Realme,Realme 14 Pro+ 5G , 14 Pro+ 5G ,Suede Grey,12,256,True,Snapdragon,Snapdragon 7s Gen 3 Mobile Platform ,6.83 , 32MP ,50MP + 50MP + 8MP ,6000,34999,750
+136,Nothing,Nothing Phone (2a) Plus , Phone (2a) Plus ,2a) Plus (Grey,12,256,False,Mediatek,Mediatek Dimensity 7350 Pro 5G ,6.7 , 50MP ,50MP + 50MP ,5000,29999,4766
+139,Vivo,Vivo T3 Ultra , T3 Ultra ,Lunar Gray,12,256,False,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 8MP ,5500,33999,5093
+140,Vivo,Vivo T3 Ultra , T3 Ultra ,Lunar Gray,8,128,False,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 8MP ,5500,29999,10640
+141,Vivo,Vivo T3 Ultra , T3 Ultra ,Lunar Gray,8,256,False,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 8MP ,5500,31999,10640
+142,Motorola,Motorola Edge 50 , Edge 50 ,Jungle Green,8,256,False,Snapdragon,Snapdragon 7 Gen 1 Accelerated Edition ,6.67 , 32MP ,50MP + 13MP + 10MP ,5000,24999,19642
+143,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Mint,8,256,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,50999,193
+144,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Black,8,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,24999,81607
+145,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Black,8,128,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,22999,81607
+146,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+147,Realme,Realme 14 Pro+ 5G , 14 Pro+ 5G ,Suede Grey,12,256,True,Snapdragon,Snapdragon 7s Gen 3 Mobile Platform ,6.83 , 32MP ,50MP + 50MP + 8MP ,6000,34999,750
+148,Vivo,Vivo T3 Ultra , T3 Ultra ,Frost Green,8,256,False,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 8MP ,5500,31999,10640
+151,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Light Green,6,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,8450,141
+153,Google,Google Pixel 8a , Pixel 8a ,Porcelain,8,128,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,37999,2328
+154,Motorola,Motorola Edge 50 Pro 5G with 68W Charger , Edge 50 Pro 5G with 68W Charger ,Luxe Lavender,8,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,27999,33123
+155,Realme,Realme C63 , C63 ,Jade Green,4,64,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8499,9019
+156,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Palm Blue,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,12999,2714
+157,Redmi,Redmi A3 , A3 ,Midnight Black,6,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,8399,4746
+160,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Blue,12,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,26999,12888
+163,Realme,Realme 14 Pro+ 5G , 14 Pro+ 5G ,Pearl White,12,256,True,Snapdragon,Snapdragon 7s Gen 3 Mobile Platform ,6.83 , 32MP ,50MP + 50MP + 8MP ,6000,34999,750
+164,Samsung,Samsung Galaxy S23 Ultra 5G , Galaxy S23 Ultra 5G ,Phantom Black,12,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.8 , 12MP ,200MP + 10MP + 12MP + 10MP ,5000,74990,3912
+166,Iqoo,Iqoo z9x , z9x ,Tornado Green,6,128,False,Snapdragon,  Snapdragon 6 Gen 1 ,6.72 , 8MP ,50MP + 2MP ,6000,13390,4924
+167,Realme,Realme 12x 5G , 12x 5G ,Coral Red,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,13499,47137
+168,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sleek Black,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+169,Samsung,Samsung Galaxy F15 5G , Galaxy F15 5G ,Ash Black,4,128,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,6000,12499,12526
+170,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+171,Realme,Realme 14 Pro+ 5G , 14 Pro+ 5G ,Suede Grey,8,128,True,Snapdragon,Snapdragon 7s Gen 3 Mobile Platform ,6.83 , 32MP ,50MP + 50MP + 8MP ,6000,29999,903
+172,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Vibrant Blue,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,10999,10270
+173,Infinix,Infinix Note 40X 5G , Note 40X 5G ,Lime Green,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.78 , 8MP ,108MP + 2MP + AI Lens ,5000,12999,2714
+175,Vivo,Vivo T3 Ultra , T3 Ultra ,Frost Green,12,256,False,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 8MP ,5500,33999,5093
+177,Nothing,Nothing Phone (2a) Plus , Phone (2a) Plus ,2a) Plus (Grey,8,256,False,Mediatek,Mediatek Dimensity 7350 Pro 5G ,6.7 , 50MP ,50MP + 50MP ,5000,24999,9722
+178,Realme,Realme 12x 5G , 12x 5G ,Coral Red,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,99431
+179,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sage Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,10999,10270
+181,Redmi,Redmi A3 , A3 ,Midnight Black,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,6940,2950
+183,Poco,Poco M6 5G , M6 5G ,Orion Blue,4,64,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,7749,130614
+184,Redmi,Redmi 13 5G , 13 5G ,Black Diamond,8,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,13999,4735
+185,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Magic Skin Green,4,64,False,Unisoc,Unisoc T616 Ocra Core ,6.67 , 8MP ,13MP Rear Camera ,5000,7299,3146
+186,Realme,Realme 12x 5G , 12x 5G ,Twilight Purple,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,13499,47137
+187,Realme,Realme 12x 5G , 12x 5G ,Woodland Green,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,13499,47137
+188,Redmi,Redmi 13C 5G , 13C 5G ,Starlight Black,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11299,32765
+189,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Mint,8,128,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,44999,193
+190,Google,Google Pixel 8a , Pixel 8a ,Obsidian,8,128,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,37999,2328
+191,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sleek Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,10999,10270
+193,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Startrail Black,4,64,False,Unisoc,Unisoc T616 Ocra Core ,6.67 , 8MP ,13MP Rear Camera ,5000,7299,3146
+194,Google,Google Pixel 8a , Pixel 8a ,Bay,8,128,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,37999,2328
+196,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+197,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Blue,8,256,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,50999,193
+198,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Mint,8,256,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,50999,193
+199,Samsung,Samsung Galaxy S24 FE 5G , Galaxy S24 FE 5G ,Graphite,8,256,True,Exynos,Exynos 2400e ,6.7 , 10MP ,50MP + 12MP ,4700,50999,193
+200,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Vibrant Blue,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+201,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Sage Green,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+202,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (White,8,128,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,22999,81607
+203,Vivo,Vivo V40e 5G , V40e 5G ,Royal Bronze,8,128,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,26999,4765
+206,Vivo,Vivo V40e 5G , V40e 5G ,Royal Bronze,8,256,True,Mediatek,Mediatek Dimensity 7300 ,6.77 , 50MP ,50MP + 8MP ,5500,28999,4765
+207,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Navy,8,128,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,25999,4015
+209,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Blue,8,128,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,22999,81607
+210,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Special Edition,8,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,25999,81607
+212,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Blue,8,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,24999,81607
+213,Samsung,Samsung Galaxy A54 5G , Galaxy A54 5G ,Awesome Graphite,8,256,True,Exynos,"Exynos 1380, Octa Core ",6.4 , 32MP ,50MP + 12MP + 5MP ,5000,23999,4492
+214,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,24999,4885
+215,Realme,Realme 12x 5G , 12x 5G ,Twilight Purple,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,99431
+216,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+218,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Blue,8,128,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,22999,81607
+219,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Jaipur Pink,8,128,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,24999,479
+220,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (Special Edition,8,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,25999,81607
+221,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Pearl White,8,128,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,24999,479
+222,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Navy,8,128,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,25999,4015
+224,Poco,Poco M6 5G , M6 5G ,Polaris Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11499,47085
+226,Poco,Poco X7 Pro 5G , X7 Pro 5G ,Obsidian Black,8,256,True,Mediatek,Mediatek Dimensity D8400 Ultra ,6.67 , 20MP ,50MP + 8MP ,6550,27999,1415
+227,Realme,Realme 12x 5G , 12x 5G ,Twilight Purple,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,99431
+228,Realme,Realme 14x 5G , 14x 5G ,Golden Glow,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,15999,1126
+229,Realme,Realme 12x 5G , 12x 5G ,Woodland Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,99431
+231,Samsung,Samsung Galaxy S23 Ultra 5G , Galaxy S23 Ultra 5G ,Green,12,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.8 , 12MP ,200MP + 10MP + 12MP + 10MP ,5000,72800,3912
+232,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Glittery White,4,64,False,Unisoc,Unisoc T616 Ocra Core ,6.67 , 8MP ,13MP Rear Camera ,5000,7299,3146
+233,Redmi,Redmi A3 , A3 ,Lake Blue,6,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,8399,4746
+234,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Glittery White,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+235,Poco,Poco X6 Neo 5G , X6 Neo 5G ,Astral Black,8,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,11999,34988
+236,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Light Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,17999,875
+237,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Dreamy Purple,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+238,Realme,Realme 14x 5G , 14x 5G ,Golden Glow,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,14999,2393
+239,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Navy,8,256,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,28999,4015
+240,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+241,Redmi,Redmi A3 , A3 ,Lake Blue,4,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7978,1643
+242,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Light Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,17999,875
+243,Infinix,Infinix Hot 50 5G , Hot 50 5G ,Dreamy Purple,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 8MP ,48MP + Depth Sensor ,5000,9499,2958
+244,Realme,Realme 14x 5G , 14x 5G ,Jewel Red,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,15999,1126
+246,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Suede Grey,8,256,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,26999,479
+248,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Magic Skin Green,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+249,Google,Google Pixel 9 , Pixel 9 ,Porcelain,12,256,False,Unisoc,Unisoc Google Tensor G4 ,6.3 , 10.5MP ,50MP + 48MP ,4700,74999,2040
+250,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Suede Grey,8,128,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,24999,479
+254,Google,Google Pixel 8a , Pixel 8a ,Bay,8,128,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,37999,2328
+258,Nothing,Nothing Phone (2a) Plus , Phone (2a) Plus ,2a) Plus (Black,8,256,False,Mediatek,Mediatek Dimensity 7350 Pro 5G ,6.7 , 50MP ,50MP + 50MP ,5000,24999,9722
+259,Google,Google Pixel 8a , Pixel 8a ,Obsidian,8,256,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,44999,2328
+260,Poco,Poco M7 Pro 5G , M7 Pro 5G ,Lavender Frost,6,128,True,Mediatek,Mediatek Dimensity 7025 Ultra ,6.67 , 20MP ,50MP + 2MP ,5110,13999,2340
+261,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Pearl White,8,256,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,26999,479
+262,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Orange,12,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,25999,7243
+263,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Startrail Black,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+265,Poco,Poco M6 5G , M6 5G ,Polaris Green,4,64,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,7749,130614
+266,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+267,Poco,Poco F6 5G , F6 5G ,Titanium,12,256,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,26999,5719
+268,Realme,Realme 14 Pro 5G , 14 Pro 5G ,Pearl White,8,256,True,Mediatek,Mediatek MT6878 ,6.77 , 16MP ,50MP + 2MP ,6000,26999,479
+270,Tecno,Tecno Spark Go 1 , Spark Go 1 ,Startrail Black,3,64,False,Unisoc,Unisoc T615 ,6.67 , 8MP ,13MP Rear Camera ,5000,6899,234
+271,Samsung,Samsung Galaxy A14 5G , Galaxy A14 5G ,Dark Red,6,128,True,Exynos,Exynos 1330 ,6.6 , 13MP ,50MP + 2MP + 2MP ,5000,11499,69910
+272,Realme,Realme 14x 5G , 14x 5G ,Jewel Red,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,14999,2393
+276,Redmi,Redmi Note 13 5G , Note 13 5G ,Stealth Black,8,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,16999,14985
+277,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Crystal Green,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+278,Samsung,Samsung Galaxy A14 5G , Galaxy A14 5G ,Dark Red,4,128,True,Exynos,Exynos 1330 ,6.6 , 13MP ,50MP + 2MP + 2MP ,5000,10499,40391
+279,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Orange,8,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,22999,12609
+280,Google,Google Pixel 8a , Pixel 8a ,Aloe,8,128,False,Unisoc,Unisoc Tensor G3 ,6.1 , 13MP ,64MP + 13MP ,4404,37999,2328
+281,Poco,Poco M7 Pro 5G , M7 Pro 5G ,Lavender Frost,8,256,True,Mediatek,Mediatek Dimensity 7025 Ultra ,6.67 , 20MP ,50MP + 2MP ,5110,16999,1100
+282,Realme,Realme C63 , C63 ,Leather Blue,4,64,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8499,9019
+283,Redmi,Redmi 13 5G , 13 5G ,Orchid Pink,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,21179
+284,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Galaxy White,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+285,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Shiny Gold,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+286,Realme,Realme 14x 5G , 14x 5G ,Crystal Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,15999,1126
+287,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Silver,8,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,22999,12609
+288,Realme,Realme 14x 5G , 14x 5G ,Crystal Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,15999,1126
+289,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Silver,8,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,22999,12609
+290,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+291,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Blue,12,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,25999,7243
+292,Poco,Poco M6 5G - Locked with Airtel Prepaid , M6 5G - Locked with Airtel Prepaid ,Orion Blue,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,8050,130614
+294,Samsung,Samsung Galaxy S23 Ultra 5G , Galaxy S23 Ultra 5G ,Green,12,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.8 , 12MP ,200MP + 10MP + 12MP + 10MP ,5000,72799,3912
+295,Realme,Realme GT 6 , GT 6 ,Razor Green,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,34999,1924
+296,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Graphite Black,8,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,4975
+298,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Gold,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,17999,875
+299,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Blue Black,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,16499,198
+300,Poco,Poco X7 5G , X7 5G ,Cosmic Silver,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,21999,540
+301,Samsung,Samsung Galaxy F55 5G , Galaxy F55 5G ,Raisin Black,12,256,True,Snapdragon,Snapdragon 7 Gen 1 ,6.7 , 50MP ,50MP + 8MP + 2MP ,5000,26999,447
+302,Iqoo,Iqoo Z9S 5G , Z9S 5G ,Titanium Matte,8,256,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 7300 5G ,6.77 , 2MP Dual ,50MP + 50MP ,5500,21840,1621
+303,Infinix,Infinix SMART 8 HD , SMART 8 HD ,Timber Black,3,64,False,Unisoc,Unisoc T606 ,6.6 , 8MP ,13MP + AI Lens ,5000,6699,43127
+304,Realme,Realme GT 6 , GT 6 ,Razor Green,16,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,39999,3179
+305,Realme,Realme GT 6 , GT 6 ,Fluid Silver,16,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,39999,3179
+306,Poco,Poco M6 5G - Locked with Airtel Prepaid , M6 5G - Locked with Airtel Prepaid ,Galactic Black,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,8050,130614
+307,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Silver,12,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,25999,7243
+310,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Silver,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+312,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Iceblue,8,128,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,25999,4015
+313,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Graphite Black,8,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,4975
+314,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Silver,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+316,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+318,Infinix,Infinix GT 20 Pro , GT 20 Pro ,Mecha Blue,8,256,False,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,22999,12609
+319,Realme,Realme C65 5G , C65 5G ,Glowing Black,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,11297,11419
+320,Poco,Poco X7 Pro 5G , X7 Pro 5G ,Yellow,8,256,True,Mediatek,Mediatek Dimensity D8400 Ultra ,6.67 , 20MP ,50MP + 8MP ,6550,27999,1415
+323,Realme,Realme GT 6 , GT 6 ,Fluid Silver,12,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,42999,879
+324,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Light Green,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,20490,875
+330,Infinix,Infinix Note 40 5G , Note 40 5G ,Racing Grey,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP + 2MP + 2MP ,5000,15999,8021
+331,Realme,Realme C63 , C63 ,Leather Blue,4,128,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8999,9019
+334,Realme,Realme C63 , C63 ,Jade Green,4,128,False,Unisoc,Unisoc T612 ,6.745 , 8MP ,50MP Rear Camera ,5000,8999,9019
+336,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+340,Nothing,Nothing Phone (2a) 5G , Phone (2a) 5G ,2a) 5G (White,8,256,True,Mediatek,Mediatek Dimensity 7200 Pro ,6.7 , 32MP ,50MP (OIS) + 50MP ,5000,25999,81607
+341,Infinix,Infinix SMART 8 , SMART 8 ,Shiny Gold,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+345,Infinix,Infinix Note 40 5G , Note 40 5G ,Racing Grey,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP + 2MP + 2MP ,5000,15999,8021
+348,Realme,Realme 14x 5G , 14x 5G ,Crystal Black,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,6000,14999,2393
+349,Redmi,Redmi Note 13 5G , Note 13 5G ,Arctic White,6,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,14999,27310
+350,Infinix,Infinix SMART 8 , SMART 8 ,Timber Black,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+351,Infinix,Infinix SMART 8 , SMART 8 ,Rainbow Blue,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+352,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Lilac,8,256,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,28999,4015
+353,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Navy,12,256,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,39999,390
+354,Vivo,Vivo Y18e , Y18e ,Gem Green,4,64,False,Mediatek,Mediatek Helios G85 ,6.56 , 5MP ,13MP + 0.08MP ,5000,7999,788
+360,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+361,Motorola,Motorola Edge 50 Ultra 5G , Edge 50 Ultra 5G ,Nordic Wood,12,512,True,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 50MP + 64MP ,4500,49999,2123
+362,Samsung,Samsung Galaxy A23 5G , Galaxy A23 5G ,Silver,6,128,True,Snapdragon, Snapdragon 695 (SM6375) ,6.6 , 8MP ,50MP + 5MP ,5000,15999,2905
+365,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Arctic White,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,21400,8803
+366,Google,Google Pixel 7 , Pixel 7 ,Snow,8,128,False,Unisoc,Unisoc Google Tensor G2 ,6.3 , 10.8MP ,50MP + 12MP ,4270,32999,17833
+369,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Silver,4,64,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,7109,372
+370,Realme,Realme C65 5G , C65 5G ,Glowing Black,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,10485,4509
+371,Vivo,Vivo V30 Pro 5G , V30 Pro 5G ,Andaman Blue,8,256,True,Mediatek,Mediatek Dimensity 8200 5G ,6.78 , 50MP ,50MP + 50MP + 50MP ,5000,34999,5840
+372,Vivo,Vivo V30 Pro 5G , V30 Pro 5G ,Andaman Blue,12,512,True,Mediatek,Mediatek Dimensity 8200 5G ,6.78 , 50MP ,50MP + 50MP + 50MP ,5000,39999,2040
+373,Infinix,Infinix SMART 8 , SMART 8 ,Galaxy White,4,64,False,Mediatek,Mediatek Helio G36 ,6.6 , 8MP ,50MP + AI Lens ,5000,7299,32899
+374,Realme,Realme 13+ 5G , 13+ 5G ,Victory Gold,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,21499,1821
+375,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Iceblue,8,256,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,36999,986
+376,Iqoo,Iqoo z9x , z9x ,Storm Grey,6,128,False,Snapdragon,  Snapdragon 6 Gen 1 ,6.72 , 8MP ,50MP + 2MP ,6000,13318,4924
+377,Redmi,Redmi A3 , A3 ,Olive Green,4,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7999,1643
+380,Nothing,Nothing Phone (2a) Plus , Phone (2a) Plus ,2a) Plus (Black,12,256,False,Mediatek,Mediatek Dimensity 7350 Pro 5G ,6.7 , 50MP ,50MP + 50MP ,5000,29999,4766
+381,Vivo,Vivo V30 Pro 5G , V30 Pro 5G ,Classic Black,12,512,True,Mediatek,Mediatek Dimensity 8200 5G ,6.78 , 50MP ,50MP + 50MP + 50MP ,5000,39999,2040
+382,Redmi,Redmi A3 , A3 ,Olive Green,6,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,11990,4746
+383,Poco,Poco F6 5G , F6 5G ,Titanium,12,512,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,33999,5719
+386,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+387,Google,Google Pixel 7a , Pixel 7a ,Coral,8,128,False,Unisoc,Unisoc Tensor G2 ,6.1 , 13MP ,64MP (OIS) + 13MP ,4300,31999,25452
+388,Redmi,Redmi 13C 5G , 13C 5G ,Starlight Black,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+389,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Green,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,9999,39303
+390,Realme,Realme C65 5G , C65 5G ,Glowing Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,12331,850
+391,Vivo,Vivo V30 Pro 5G , V30 Pro 5G ,Classic Black,8,256,True,Mediatek,Mediatek Dimensity 8200 5G ,6.78 , 50MP ,50MP + 50MP + 50MP ,5000,34999,5840
+393,Poco,Poco X7 5G , X7 5G ,Glacier Green,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,21999,540
+394,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Light Green,4,64,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,7109,372
+395,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Purple,12,512,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,28999,10013
+396,Redmi,Redmi A3 , A3 ,Midnight Black,4,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7391,1643
+399,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Black,4,64,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,9999,372
+400,Realme,Realme C65 5G , C65 5G ,Feather Green,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,11465,11419
+401,Vivo,Vivo V30 5G , V30 5G ,Classic Black,12,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5000,34999,1115
+403,Vivo,Vivo V30 5G , V30 5G ,Classic Black,8,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5000,32990,7570
+404,Samsung,Samsung Galaxy A15 5G , Galaxy A15 5G ,Blue Black,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,5000,15999,3431
+405,Oppo,Oppo Reno13 5G , Reno13 5G ,Ivory White,8,128,True,Mediatek,Mediatek Dimensity 8350 ,6.59 , 50MP ,50MP + 8MP + 2MP ,5600,37999,727
+406,Infinix,Infinix Note 40 Pro+ 5G , Note 40 Pro+ 5G ,Obsidian Black,12,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,4600,21999,3681
+407,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11299,32765
+409,Redmi,Redmi Note 13 5G , Note 13 5G ,Stealth Black,12,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,17499,6107
+410,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+412,Redmi,Redmi Note 13 5G , Note 13 5G ,Stealth Black,6,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,14999,27310
+413,Vivo,Vivo V30 5G , V30 5G ,Andaman Blue,12,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5000,34999,1115
+414,Vivo,Vivo V30 5G , V30 5G ,Classic Black,8,128,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5000,29999,7570
+415,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11299,32765
+416,Poco,Poco F6 5G , F6 5G ,Titanium,12,512,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,33999,5719
+417,Infinix,Infinix Note 40 Pro+ 5G , Note 40 Pro+ 5G ,Obsidian Black,12,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,4600,21999,3681
+418,Realme,Realme GT 6 , GT 6 ,Fluid Silver,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,34999,1924
+419,Realme,Realme GT 6 , GT 6 ,Razor Green,12,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.78 , 32MP ,50MP + 8MP + 50MP ,5500,42999,879
+420,Iqoo,Iqoo Z9S 5G , Z9S 5G ,Titanium Matte,12,256,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 7300 5G ,6.77 , 2MP Dual ,50MP + 50MP ,5500,24639,134
+422,Redmi,Redmi A3 , A3 ,Midnight Black,4,128,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7391,1643
+423,Google,Google Pixel 7a , Pixel 7a ,Snow,8,128,False,Unisoc,Unisoc Tensor G2 ,6.1 , 13MP ,64MP (OIS) + 13MP ,4300,31999,25452
+424,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Iceblue,8,256,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,36999,986
+425,Oppo,Oppo A3x 5G , A3x 5G ,Starry Purple,4,64,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 5MP ,8MP Rear Camera ,5100,11499,1454
+426,Oppo,Oppo A3x 5G , A3x 5G ,Starlight White,4,64,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 5MP ,8MP Rear Camera ,5100,11499,1454
+427,Samsung,Samsung Galaxy A14 5G , Galaxy A14 5G ,Black,4,128,True,Exynos,Exynos 1330 ,6.6 , 13MP ,50MP + 2MP ,5000,10499,40391
+428,Infinix,Infinix HOT 40i , HOT 40i ,Starfall Green,8,256,False,Unisoc,Unisoc T606 ,6.6 , 32MP ,50MP + AI Lens ,5000,9999,21586
+429,Infinix,Infinix HOT 40i , HOT 40i ,Horizon Gold,8,256,False,Unisoc,Unisoc T606 ,6.6 , 32MP ,50MP + AI Lens ,5000,9999,21586
+430,Redmi,Redmi 14C 5G , 14C 5G ,Stargaze Black,4,64,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,9999,152
+431,Realme,Realme 13+ 5G , 13+ 5G ,Victory Gold,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,21499,1821
+433,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Parrot Blue,8,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,16999,28859
+434,Redmi,Redmi 13C 5G , 13C 5G ,Startrail Silver,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,11299,32765
+436,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+437,Infinix,Infinix Note 40 5G , Note 40 5G ,Obsidian Black,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP + 2MP + 2MP ,5000,15999,8021
+438,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Blue Black,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,19730,875
+439,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Gold,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,16499,198
+440,Oppo,Oppo Reno 12 Pro 5G , Reno 12 Pro 5G ,Manish Malhotra Limited Edition,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 50MP ,50MP + 8MP + 50MP ,5000,36999,4176
+441,Poco,Poco M7 Pro 5G , M7 Pro 5G ,Olive Twilight,8,256,True,Mediatek,Mediatek Dimensity 7025 Ultra ,6.67 , 20MP ,50MP + 2MP ,5110,16999,1100
+442,Redmi,Redmi Note 13 5G , Note 13 5G ,Chromatic Purple,8,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,16999,14985
+443,Realme,Realme 12 Pro+ 5G , 12 Pro+ 5G ,Submarine Blue,8,128,True,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 8MP + 64MP ,5000,29999,25348
+444,Redmi,Redmi 14C 5G , 14C 5G ,Stardust Purple,4,64,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,9999,152
+446,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Dusk Pink,8,128,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,25999,3684
+447,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Phoenix Red,12,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,17999,6034
+448,Samsung,Samsung Galaxy F15 5G , Galaxy F15 5G ,Groovy Violet,6,128,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,6000,13499,30102
+449,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Emerald Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,27999,5678
+450,Oppo,Oppo Reno13 Pro 5G , Reno13 Pro 5G ,Graphite Grey,12,512,True,Mediatek,Mediatek Dimensity 8350 ,6.83 , 50MP ,50MP + 50MP + 8MP ,5800,54999,237
+451,Vivo,Vivo Y300 5G , Y300 5G ,Emerald Green,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,21999,931
+452,Vivo,Vivo Y300 5G , Y300 5G ,Phantom Purple,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,21999,931
+453,Vivo,Vivo Y300 5G , Y300 5G ,Emerald Green,8,256,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,23999,931
+454,Vivo,Vivo Y300 5G , Y300 5G ,Phantom Purple,8,256,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,23999,931
+456,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+457,Redmi,Redmi 14C 5G , 14C 5G ,Stardust Purple,4,64,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,9999,152
+458,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Gold,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,16499,198
+459,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Phoenix Red,12,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,17999,6034
+460,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Purple,12,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,26999,10013
+461,Google,Google Pixel 9 , Pixel 9 ,Peony,12,256,False,Unisoc,Unisoc Google Tensor G4 ,6.3 , 10.5MP ,50MP + 48MP ,4700,74999,2040
+462,Motorola,Motorola Edge 50 Ultra 5G , Edge 50 Ultra 5G ,Peach Fuzz,12,512,True,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 50MP + 64MP ,4500,49999,2123
+463,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Dusk Pink,8,128,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,25999,3684
+464,Vivo,Vivo X200 Pro 5G , X200 Pro 5G ,Cosmos Black,16,512,True,Mediatek,Mediatek Dimensity 9400 ,6.78 , 32MP ,50MP + 50MP + 200MP ,6000,94999,484
+466,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Navy,8,256,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,34499,986
+467,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Whitesilver,12,512,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,931
+468,Vivo,Vivo Y300 5G , Y300 5G ,Titanium Silver,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,21999,2340
+469,Poco,Poco M7 Pro 5G , M7 Pro 5G ,Lunar Dust,6,128,True,Mediatek,Mediatek Dimensity 7025 Ultra ,6.67 , 20MP ,50MP + 2MP ,5110,13999,931
+470,Vivo,Vivo Y300 5G , Y300 5G ,Emerald Green,8,256,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,23999,443
+472,Realme,Realme 13+ 5G , 13+ 5G ,Victory Gold,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,23999,177
+473,Realme,Realme 13+ 5G , 13+ 5G ,Speed Green,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,23999,33123
+474,Motorola,Motorola Edge 50 Pro 5G with 68W Charger , Edge 50 Pro 5G with 68W Charger ,Black Beauty,8,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,27999,237
+475,Oppo,Oppo Reno13 Pro 5G , Reno13 Pro 5G ,Mist Lavender,12,512,True,Mediatek,Mediatek Dimensity 8350 ,6.83 , 50MP ,50MP + 50MP + 8MP ,5800,54999,5492
+476,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Purple,8,128,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,26999,16089
+477,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Purple,8,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,24999,4015
+478,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Iceblue,8,256,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,28999,14985
+479,Redmi,Redmi Note 13 5G , Note 13 5G ,Chromatic Purple,8,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,16999,0
+480,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+481,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Purple,8,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,24999,16089
+482,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Iceblue,8,256,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,28999,4015
+483,Google,Google Pixel 8 , Pixel 8 ,Hazel,8,128,False,Unisoc,Unisoc Tensor G3 ,6.2 , 10.5MP ,50MP + 12MP ,4575,48999,16842
+484,Google,Google Pixel 9 Pro , Pixel 9 Pro ,Hazel,16,256,False,Unisoc,Unisoc G4 Tensor Chip ,6.3 , 42MP ,50MP + 48MP + 48MP ,4700,109999,252
+485,Realme,Realme 12 Pro+ 5G , 12 Pro+ 5G ,Navigator Beige,12,256,True,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 8MP + 64MP ,5000,26999,13370
+489,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Parrot Blue,12,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,17999,6034
+490,Samsung,Samsung Galaxy S23 5G , Galaxy S23 5G ,Green,8,128,True,Snapdragon, Snapdragon 8 Gen 2 ,6.1 , 12MP ,50MP + 10MP + 12MP ,3900,39999,70672
+492,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Black,12,512,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,25348
+493,Realme,Realme 12 Pro+ 5G , 12 Pro+ 5G ,Explorer Red,8,256,True,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 8MP + 64MP ,5000,24999,447811
+494,Vivo,Vivo T2x 5G , T2x 5G ,Aurora Gold,6,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,12999,741
+497,Poco,Poco X7 5G , X7 5G ,Glacier Green,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,23999,14985
+498,Redmi,Redmi Note 13 5G , Note 13 5G ,Arctic White,8,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,16999,6107
+499,Redmi,Redmi Note 13 5G , Note 13 5G ,Arctic White,12,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,17499,5678
+500,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Monet Purple,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,27999,198
+501,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Light Green,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,14543,28859
+502,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Phoenix Red,8,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,15999,484
+503,Vivo,Vivo X200 Pro 5G , X200 Pro 5G ,Titanium Grey,16,512,True,Mediatek,Mediatek Dimensity 9400 ,6.78 , 32MP ,50MP + 50MP + 200MP ,6000,94999,0
+504,Vivo,Vivo T2x 5G , T2x 5G ,Aurora Gold,6,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,12999,447811
+505,Realme,Realme 12 Pro+ 5G , 12 Pro+ 5G ,Explorer Red,8,256,True,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 8MP + 64MP ,5000,24999,25348
+506,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+508,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Iceblue,8,128,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,33999,986
+510,Samsung,Samsung Galaxy A55 5G , Galaxy A55 5G ,Awesome Iceblue,12,256,True,Exynos, Exynos 1480 ,6.6 , 32MP ,50MP + 12MP + 5MP ,5000,45999,390
+511,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Whitesilver,12,256,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,540
+512,Poco,Poco X7 5G , X7 5G ,Yellow,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,23999,91608
+513,Motorola,Motorola g45 5G , g45 5G ,Pink Lavender,8,128,True,Snapdragon,Snapdragon 6s Gen 3 ,6.5 , 16MP ,50MP + 2MP ,5000,11999,4015
+514,Samsung,Samsung Galaxy A35 5G , Galaxy A35 5G ,Awesome Lilac,8,128,True,Exynos, Exynos 1380 ,6.6 , 13MP ,50MP + 8MP + 5MP ,5000,25999,4509
+515,Realme,Realme C65 5G , C65 5G ,Speedy Red,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,10601,2950
+516,Redmi,Redmi A3 , A3 ,Lake Blue,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,6999,76920
+517,Vivo,Vivo T2x 5G , T2x 5G ,Marine Blue,8,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,15999,186627
+518,Vivo,Vivo T2x 5G , T2x 5G ,Marine Blue,4,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,12499,447811
+519,Vivo,Vivo T2x 5G , T2x 5G ,Black Gladiator,6,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,12999,7570
+520,Vivo,Vivo V30 5G , V30 5G ,Peacock Green,8,128,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5000,27790,130614
+521,Poco,Poco M6 5G - Locked with Airtel Prepaid , M6 5G - Locked with Airtel Prepaid ,Polaris Green,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,8050,25452
+522,Google,Google Pixel 7a , Pixel 7a ,Charcoal,8,128,False,Unisoc,Unisoc Tensor G2 ,6.1 , 13MP ,64MP (OIS) + 13MP ,4300,31999,89
+523,Vivo,Vivo X200 5G , X200 5G ,Cosmos Black,16,512,True,Mediatek,Mediatek Dimensity 9400 ,6.67 , 32MP ,50MP + 50MP + 50MP ,5800,71999,796
+524,Poco,Poco X7 Pro 5G , X7 Pro 5G ,Obsidian Black,12,256,True,Mediatek,Mediatek Dimensity D8400 Ultra ,6.67 , 20MP ,50MP + 8MP ,6550,29999,2021
+526,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Coral Purple,8,128,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,19999,209326
+527,Samsung,Samsung Galaxy F13 , Galaxy F13 ,Sunrise Copper,4,64,False,Exynos,Exynos 850 ,6.6 , 8MP ,50MP + 5MP + 2MP ,6000,9999,0
+528,Vivo,Vivo Y29 5G , Y29 5G ,Diamond Black,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,15499,88
+529,Google,Google Pixel 9 Pro XL , Pixel 9 Pro XL ,Hazel,16,256,False,Unisoc,Unisoc Google Tensor G4 ,6.8 , 42MP ,50MP + 48MP + 48MP ,5060,124999,590
+530,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+531,Infinix,Infinix Note 40 Pro 5G , Note 40 Pro 5G ,Racing Grey,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,19999,34289
+533,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Monet Gold,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,26999,9248
+534,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Monet Purple,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,26999,9248
+535,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Emerald Green,8,128,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,26999,5492
+536,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Purple,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,31999,601
+537,Oppo,Oppo Reno 12 Pro 5G , Reno 12 Pro 5G ,Space Brown,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 50MP ,50MP + 8MP + 50MP ,5000,36999,4176
+539,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Coral Purple,8,128,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,19999,33371
+540,Vivo,Vivo Y29 5G , Y29 5G ,Titanium Gold,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,16999,140
+542,Realme,Realme 13+ 5G , 13+ 5G ,Dark Purple,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,21499,1821
+543,Vivo,Vivo T2x 5G , T2x 5G ,Black Gladiator,8,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,14999,76920
+544,Infinix,Infinix Note 40 Pro 5G , Note 40 Pro 5G ,Obsidian Black,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,19999,34289
+545,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Emerald Green,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,26999,9248
+546,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Onyx Black,8,256,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,70999,1607
+547,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Arctic White,8,128,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,20248,33371
+548,Samsung,Samsung Galaxy S23 5G , Galaxy S23 5G ,Lavender,8,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.1 , 12MP ,50MP + 10MP + 12MP ,3900,41999,70672
+550,Vivo,Vivo X200 5G , X200 5G ,Natural Green,16,512,True,Mediatek,Mediatek Dimensity 9400 ,6.67 , 32MP ,50MP + 50MP + 50MP ,5800,71999,89
+551,Google,Google Pixel 9 Pro XL , Pixel 9 Pro XL ,Obsidian,16,512,False,Unisoc,Unisoc Google Tensor G4 ,6.8 , 42MP ,50MP + 48MP + 48MP ,5060,139999,590
+552,Vivo,Vivo Y29 5G , Y29 5G ,Diamond Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,16999,140
+553,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Black,12,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,24347,10013
+554,Vivo,Vivo Y29 5G , Y29 5G ,Diamond Black,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,18999,140
+555,Google,Google Pixel 8 , Pixel 8 ,Hazel,8,256,False,Unisoc,Unisoc Tensor G3 ,6.2 , 10.5MP ,50MP + 12MP ,4575,50999,16842
+556,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+557,Realme,Realme 13+ 5G , 13+ 5G ,Dark Purple,8,128,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,19999,1821
+558,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Scarlet Red,8,128,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,19999,33371
+559,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Emerald Green,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,28999,5492
+561,Samsung,Samsung Galaxy F15 5G , Galaxy F15 5G ,Groovy Violet,4,128,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,6000,12499,12526
+562,Motorola,Motorola g04s , g04s ,Satin Blue,4,64,False,Unisoc,Unisoc T606 ,6.6 , 5MP ,50MP Rear Camera ,5000,7299,27503
+563,Motorola,Motorola G04 , G04 ,Satin Blue,4,64,False,Unisoc,Unisoc T606 ,6.6 , 5MP ,16MP Rear Camera ,5000,6999,16324
+564,Google,Google Pixel 9 Pro XL , Pixel 9 Pro XL ,Obsidian,16,256,False,Unisoc,Unisoc Google Tensor G4 ,6.8 , 42MP ,50MP + 48MP + 48MP ,5060,124999,590
+565,Vivo,Vivo X200 5G , X200 5G ,Natural Green,12,256,True,Mediatek,Mediatek Dimensity 9400 ,6.67 , 32MP ,50MP + 50MP + 50MP ,5800,65999,397
+566,Vivo,Vivo Y300 5G , Y300 5G ,Titanium Silver,8,256,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 32MP ,50MP + 2MP ,5000,23999,931
+567,Realme,Realme C65 5G , C65 5G ,Speedy Red,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,11412,11419
+568,Vivo,Vivo Y29 5G , Y29 5G ,Titanium Gold,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,18999,140
+569,Vivo,Vivo T2x 5G , T2x 5G ,Glimmer Black,8,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,15899,76920
+570,Vivo,Vivo Y21T , Y21T ,Pearl White,4,128,False,Snapdragon, Snapdragon 680 ,6.58 , 8MP ,50MP + 2MP + 2MP ,5000,9990,2031
+571,Realme,Realme 13+ 5G , 13+ 5G ,Victory Gold,8,128,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,19999,1821
+574,Vivo,Vivo Y28s 5G , Y28s 5G ,Twinkling Purple,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 0.08MP ,5000,14499,771
+575,Oppo,Oppo Reno 12 Pro 5G , Reno 12 Pro 5G ,Space Brown,12,512,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 50MP ,50MP + 8MP + 50MP ,5000,30999,4176
+576,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+577,Vivo,Vivo Y29 5G , Y29 5G ,Glacier Blue,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.68 , 8MP ,50MP + 0.08MP ,5500,13999,54
+578,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Parrot Blue,8,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,16999,28859
+580,Vivo,Vivo X200 5G , X200 5G ,Cosmos Black,12,256,True,Mediatek,Mediatek Dimensity 9400 ,6.67 , 32MP ,50MP + 50MP + 50MP ,5800,65999,397
+581,Samsung,Samsung Galaxy S23 5G , Galaxy S23 5G ,Green,8,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.1 , 12MP ,50MP + 10MP + 12MP ,3900,41999,70672
+582,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Phantom Purple,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,26999,1219
+583,Redmi,Redmi Note 13 5G , Note 13 5G ,Prism Gold,12,256,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,17499,6107
+584,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Emerald Green,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,31999,601
+585,Oppo,Oppo Reno13 5G , Reno13 5G ,Luminous Blue,8,256,True,Mediatek,Mediatek Dimensity 8350 ,6.59 , 50MP ,50MP + 8MP + 2MP ,5600,39999,727
+587,Oppo,Oppo Reno13 5G , Reno13 5G ,Ivory White,8,256,True,Mediatek,Mediatek Dimensity 8350 ,6.59 , 50MP ,50MP + 8MP + 2MP ,5600,39999,727
+588,Redmi,Redmi A3 , A3 ,Olive Green,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7288,2950
+590,Google,Google Pixel 9 Pro , Pixel 9 Pro ,Porcelain,16,256,False,Unisoc,Unisoc G4 Tensor Chip ,6.3 , 42MP ,50MP + 48MP + 48MP ,4700,109999,252
+591,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Phantom Purple,12,512,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,35999,701
+593,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Gray,12,256,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,134999,2553
+594,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Gray,12,512,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,144999,2553
+595,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Monet Gold,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,27999,5678
+596,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Emerald Green,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,30999,5678
+597,Realme,Realme 13 Pro+ 5G , 13 Pro+ 5G ,Monet Gold,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 50MP ,5200,30999,5678
+598,Oppo,Oppo Reno 12 Pro 5G , Reno 12 Pro 5G ,Sunset Gold,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 50MP ,50MP + 8MP + 50MP ,5000,36999,4176
+599,Google,Google Pixel 7a , Pixel 7a ,Sea,8,128,False,Unisoc,Unisoc Tensor G2 ,6.1 , 13MP ,64MP (OIS) + 13MP ,4300,31999,25452
+600,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+601,Vivo,Vivo X200 5G , X200 5G ,Natural Green,16,512,True,Mediatek,Mediatek Dimensity 9400 ,6.67 , 32MP ,50MP + 50MP + 50MP ,5800,71999,89
+603,Oppo,Oppo Reno 12 Pro 5G , Reno 12 Pro 5G ,Sunset Gold,12,512,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 50MP ,50MP + 8MP + 50MP ,5000,30999,4176
+605,Infinix,Infinix Zero 40 5G , Zero 40 5G ,Moving Titanium,12,256,True,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 50MP ,108MP + 50MP + 2MP ,5000,25999,960
+606,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Yellow,8,256,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,19999,20185
+607,Realme,Realme 12 Pro+ 5G , 12 Pro+ 5G ,Navigator Beige,8,256,True,Snapdragon,Snapdragon 7s Gen 2 ,6.7 , 32MP ,50MP + 8MP + 64MP ,5000,24999,25348
+609,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Phantom Purple,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,24999,1219
+611,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Ivy Green,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,24999,1219
+612,Samsung,Samsung Galaxy A15 5G , Galaxy A15 5G ,Light Blue,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,5000,17900,3431
+613,Google,Google Pixel 7a , Pixel 7a ,Sea,8,128,False,Unisoc,Unisoc Tensor G2 ,6.1 , 13MP ,64MP (OIS) + 13MP ,4300,31999,25452
+615,Google,Google Pixel 9 Pro , Pixel 9 Pro ,Rose Quartz,16,256,False,Unisoc,Unisoc G4 Tensor Chip ,6.3 , 42MP ,50MP + 48MP + 48MP ,4700,109999,252
+616,Oppo,Oppo A3 Pro 5G , A3 Pro 5G ,Starry Black,8,256,True,Mediatek,Mediatek Dimensity 6300 5G Mobile Platform ,6.67 , 8MP ,50MP + 2MP ,5100,19999,1623
+617,Vivo,Vivo T2x 5G , T2x 5G ,Glimmer Black,6,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,15999,447811
+618,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Yellow,12,512,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,28999,15575
+619,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Gray,12,256,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,134999,2553
+620,Poco,Poco F6 5G , F6 5G ,Black,12,512,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,33999,5719
+622,Samsung,Samsung Galaxy A16 5G , Galaxy A16 5G ,Blue Black,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.7 , 13MP ,50MP + 5MP + 2MP ,5000,16434,875
+623,Google,Google Pixel 9 Pro , Pixel 9 Pro ,Porcelain,16,256,False,Unisoc,Unisoc G4 Tensor Chip ,6.3 , 42MP ,50MP + 48MP + 48MP ,4700,109999,252
+624,Realme,Realme P1 Pro 5G , P1 Pro 5G ,Parrot Blue,8,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP ,5000,15999,28859
+625,Samsung,Samsung Galaxy Z Flip5 Special Edition , Galaxy Z Flip5 Special Edition ,Yellow,8,256,False,Snapdragon,  Snapdragon 8 Gen 2 (4 nm) ,6.7 , 10MP ,12MP + 12MP ,3700,60480,9
+626,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+628,Google,Google Pixel 9 Pro , Pixel 9 Pro ,Rose Quartz,16,256,False,Unisoc,Unisoc G4 Tensor Chip ,6.3 , 42MP ,50MP + 48MP + 48MP ,4700,109999,252
+629,Vivo,Vivo Y28s 5G , Y28s 5G ,Twinkling Purple,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 0.08MP ,5000,12999,195
+630,Poco,Poco F6 5G , F6 5G ,Black,12,512,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,33999,5719
+631,Poco,Poco C51 , C51 ,Power Black,6,128,False,Mediatek,Mediatek Helio G36 ,6.52 , 5MP ,8MP Rear Camera ,5000,8999,12919
+634,Oppo,Oppo Reno13 Pro 5G , Reno13 Pro 5G ,Graphite Grey,12,256,True,Mediatek,Mediatek Dimensity 8350 ,6.83 , 50MP ,50MP + 50MP + 8MP ,5800,49999,237
+635,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Gold,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,28999,5492
+636,Realme,Realme C65 5G , C65 5G ,Feather Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 8MP ,50MP Rear Camera ,5000,12499,850
+637,Vivo,Vivo Y18t , Y18t ,Space Black,4,128,False,Unisoc,Unisoc T612 ,6.56 , 8MP ,50MP + 0.08MP ,5000,9499,78
+638,Samsung,Samsung Galaxy S23 Ultra 5G , Galaxy S23 Ultra 5G ,Cream,12,512,True,Snapdragon, Snapdragon 8 Gen 2 ,6.8 , 12MP ,200MP + 10MP + 12MP + 10MP ,5000,161999,3912
+639,Realme,Realme 13+ 5G , 13+ 5G ,Speed Green,8,128,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,19999,1821
+640,Realme,Realme 13+ 5G , 13+ 5G ,Speed Green,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,21499,1821
+641,Realme,Realme 3 Pro , 3 Pro ,Nitro Blue,4,64,False,Snapdragon, Snapdragon 710 Octa Core 2.2 GHz AIE ,6.3 , 25MP ,16MP + 5MP ,4045,15999,346857
+642,Vivo,Vivo Y28s 5G , Y28s 5G ,Vintage Red,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 8MP ,50MP + 0.08MP ,5000,15999,288
+644,Vivo,Vivo Y28e 5G , Y28e 5G ,Vintage Red,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.56 , 5MP ,13MP + 0.08MP ,5000,10999,492
+646,Poco,Poco X7 5G , X7 5G ,Cosmic Silver,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,23999,540
+647,Redmi,Redmi 13C , 13C ,Starfrost White,4,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP Rear Camera ,5000,7199,79198
+648,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Titan Black,8,128,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,30999,750
+649,Vivo,Vivo Y18t , Y18t ,Gem Green,4,128,False,Unisoc,Unisoc T612 ,6.56 , 8MP ,50MP + 0.08MP ,5000,9499,78
+650,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+651,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Black,8,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,22899,16089
+652,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Midnight Black,8,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,21480,33371
+653,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Coral Purple,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,23478,8803
+654,Oppo,Oppo Reno13 Pro 5G , Reno13 Pro 5G ,Mist Lavender,12,256,True,Mediatek,Mediatek Dimensity 8350 ,6.83 , 50MP ,50MP + 50MP + 8MP ,5800,49999,237
+655,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Gold,8,128,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,26999,5492
+656,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Purple,8,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,28999,5492
+657,Infinix,Infinix Note 40 Pro 5G , Note 40 Pro 5G ,Gold,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,19999,34289
+658,Samsung,Samsung Galaxy A15 5G , Galaxy A15 5G ,Light Blue,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,5000,17900,3431
+660,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Midnight Navy,8,128,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,25999,3684
+662,Motorola,Motorola e40 , e40 ,Carbon Gray,4,64,False,Unisoc,Unisoc UNISOC T700 ,6.5 , 8MP ,48MP + 2MP + 2MP ,5000,7079,90179
+663,Oppo,Oppo F27 5G , F27 5G ,Amber Orange,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 32MP ,50MP + 2MP ,5000,22999,1200
+664,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Midnight Navy,8,256,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,27999,3684
+665,Redmi,Redmi 14C 5G , 14C 5G ,Stardust Purple,4,128,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,11299,152
+666,Vivo,Vivo Y16 , Y16 ,Steller Black,4,64,False,Mediatek,Mediatek Helio P35 ,6.51 , 5MP ,13MP + 2MP ,5000,8999,8281
+667,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Ivy Green,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,26999,1219
+668,Vivo,Vivo X80 Pro , X80 Pro ,Cosmic Black,12,256,False,Snapdragon, Snapdragon 8 Gen 1 Mobile Platform ,6.78 , 32MP ,50MP + 48MP + 12MP + 8MP ,4700,41966,1002
+669,Redmi,Redmi Note 13 5G , Note 13 5G ,Prism Gold,6,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,14999,27310
+670,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Titan Black,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,24999,1219
+672,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Gray,12,512,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,1200
+673,Oppo,Oppo F27 5G , F27 5G ,Amber Orange,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 32MP ,50MP + 2MP ,5000,22999,3684
+674,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Midnight Navy,8,256,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,27999,8281
+675,Vivo,Vivo Y16 , Y16 ,Steller Black,4,64,False,Mediatek,Mediatek Helio P35 ,6.51 , 5MP ,13MP + 2MP ,5000,8999,4885
+676,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,27310
+677,Redmi,Redmi Note 13 5G , Note 13 5G ,Prism Gold,6,128,True,Mediatek,Mediatek Dimensity 6080 ,6.67 , 16MP ,108MP + 2MP ,5000,14999,540
+678,Oppo,Oppo A3 5G , A3 5G ,Ocean Blue,6,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 5MP ,50MP Rear Camera ,5100,14999,3684
+679,Oppo,Oppo F27 Pro+ , F27 Pro+ ,Midnight Navy,8,128,False,Mediatek,Mediatek Dimensity 7050 ,6.7 , 8MP ,64MP + 2MP ,5000,25999,701
+680,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Titan Black,12,512,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,35999,1662
+682,Vivo,Vivo Y18t , Y18t ,Space Black,4,128,False,Unisoc,Unisoc T612 ,6.56 , 8MP ,50MP + 0.08MP ,5000,9499,33371
+683,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Midnight Black,8,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,21999,55
+685,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Midnight Black,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,22499,770
+686,Samsung,Samsung Galaxy Z Flip5 , Galaxy Z Flip5 ,Mint,8,512,False,Snapdragon,Snapdragon 8 Gen 2 ,6.7 , 10MP ,12MP + 12MP ,3700,74999,1219
+687,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Titan Black,8,256,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,26999,10121
+688,Poco,Poco F6 5G , F6 5G ,Black,8,256,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,29999,5719
+689,Poco,Poco F6 5G , F6 5G ,Black,12,256,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,26999,1219
+690,Redmi,Redmi Note 14 Pro 5G , Note 14 Pro 5G ,Titan Black,8,128,True,Mediatek,Mediatek Dimensity 7300 Ultra ,6.67 , 20MP ,50MP + 8MP + 2MP ,5500,24999,1607
+691,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Marble Gray,8,128,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,54999,70039
+692,Poco,Poco C61 , C61 ,Mystical Green,4,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,5999,99431
+693,Realme,Realme 12x 5G , 12x 5G ,Coral Red,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,12499,34289
+694,Infinix,Infinix Note 40 Pro 5G , Note 40 Pro 5G ,Gold,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,5000,19999,47171
+695,Motorola,Motorola G9 , G9 ,Sapphire Blue,4,64,False,Snapdragon, Snapdragon 662 ,6.5 , 8MP ,48MP + 2MP + 2MP ,5000,7478,0
+696,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+697,Redmi,Redmi 14C 5G , 14C 5G ,Stargaze Black,6,128,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,12289,386
+698,Redmi,Redmi 14C 5G , 14C 5G ,Starlight Blue,6,128,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,12247,386
+699,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Midnight Black,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,23999,8803
+700,Vivo,Vivo X80 Pro , X80 Pro ,Cosmic Black,12,256,False,Snapdragon, Snapdragon 8 Gen 1 Mobile Platform ,6.78 , 32MP ,50MP + 48MP + 12MP + 8MP ,4700,41966,1002
+701,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Spectre Blue,8,256,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,32999,750
+702,Oppo,Oppo Reno 12 5G , Reno 12 5G ,Matte Brown,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 32MP ,50MP + 8MP + 2MP ,5000,32999,1039
+703,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Silverblue,12,512,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,3267
+704,Vivo,Vivo Y16 , Y16 ,Steller Black,3,64,False,Mediatek,Mediatek Helio P35 ,6.51 , 5MP ,13MP + 2MP ,5000,10999,960
+705,Infinix,Infinix Zero 40 5G , Zero 40 5G ,Violet Garden,12,256,True,Mediatek,Mediatek Dimensity 8200 Ultimate ,6.78 , 50MP ,108MP + 50MP + 2MP ,5000,25999,421
+707,Samsung,Samsung Galaxy A05 , Galaxy A05 ,Black,6,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + 2MP ,5000,12499,969
+708,Vivo,Vivo V40 Pro 5G , V40 Pro 5G ,Ganges Blue,8,256,True,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 50MP + 50MP ,5500,49999,727
+709,Vivo,Vivo V40 Pro 5G , V40 Pro 5G ,Ganges Blue,12,512,True,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 50MP + 50MP ,5500,55999,7513
+710,Vivo,Vivo V40 5G , V40 5G ,Lotus Purple,8,128,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5500,34999,5467
+711,Vivo,Vivo V30e , V30e ,Velvet Red,8,256,False,Snapdragon,Snapdragon 6 Gen 1 ,6.78 , 50MP ,50MP + 8MP ,5500,27999,1454
+712,Oppo,Oppo A3x 5G , A3x 5G ,Starlight White,4,128,True,Mediatek,Mediatek Dimensity 6300 ,6.67 , 5MP ,8MP Rear Camera ,5100,12499,5494
+714,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Arctic White,8,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,21999,200
+719,Vivo,Vivo V30e , V30e ,Velvet Red,8,128,False,Snapdragon,Snapdragon 6 Gen 1 ,6.78 , 50MP ,50MP + 8MP ,5500,25999,0
+720,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+722,Vivo,Vivo V40 5G , V40 5G ,Ganges Blue,8,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5500,36999,7513
+724,Realme,Realme 13 Pro 5G , 13 Pro 5G ,Monet Gold,12,512,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP + 2MP ,5200,31999,601
+725,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Violet,12,256,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,134999,2553
+726,Samsung,Samsung Galaxy A25 5G , Galaxy A25 5G ,Blue Black,8,128,True,Exynos,Exynos 1280 ,6.5 , 13MP ,50MP + 8MP + 2MP ,5000,18990,231
+727,Poco,Poco C55 , C55 ,Forest Green,4,64,False,Mediatek,Mediatek Helio G85 ,6.71 , 5MP ,50MP Dual Rear Camera ,5000,9499,130555
+728,Redmi,Redmi 14C 5G , 14C 5G ,Stargaze Black,4,128,True,Snapdragon,Snapdragon 4 Gen 2 5G ,6.88 , 8MP ,50MP Rear Camera ,5160,10968,152
+729,Realme,Realme 10 , 10 ,Clash White,4,64,False,Mediatek,Mediatek Helio G99 Octa Core ,6.4 , 16MP ,50MP + 2MP ,5000,9999,27374
+730,Oppo,Oppo Reno 12 5G , Reno 12 5G ,Astro Silver,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 32MP ,50MP + 8MP + 2MP ,5000,32999,1039
+731,Google,Google Pixel 8 Pro , Pixel 8 Pro ,Obsidian,12,256,False,Unisoc,Unisoc Tensor G3 ,6.7 , 10.5MP ,50MP + 48MP + 48MP ,5050,81999,1013
+732,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Phantom Purple,8,256,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,32999,750
+733,Vivo,Vivo Y200e 5G , Y200e 5G ,Black Diamond,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 16MP ,50MP + 2MP ,5000,19999,1267
+734,Oppo,Oppo A79 5G , A79 5G ,Glowing Green,8,128,True,Mediatek,Mediatek Dimensity 6020 ,6.72 , 8MP ,"Rear Camera: 50MP AI Camera, 2MP Portrait Camera Front Camera: 8MP Selfie Camera ",5000,17499,2569
+735,Motorola,Motorola Edge 50 Pro 5G with 125W Charger , Edge 50 Pro 5G with 125W Charger ,Moonlight Pearl,12,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,29999,51803
+736,Samsung,Samsung Galaxy S23 Ultra 5G , Galaxy S23 Ultra 5G ,Cream,12,256,True,Snapdragon, Snapdragon 8 Gen 2 ,6.8 , 12MP ,200MP + 10MP + 12MP + 10MP ,5000,78500,3912
+738,Oppo,Oppo Reno 12 5G , Reno 12 5G ,Sunset Peach,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 32MP ,50MP + 8MP + 2MP ,5000,32999,1039
+739,Vivo,Vivo V40 5G , V40 5G ,Ganges Blue,12,512,True,Snapdragon,Snapdragon 7 Gen 3 ,6.78 , 50MP ,50MP + 50MP ,5500,41999,971
+740,Samsung,Samsung Galaxy S21 FE 5G with Snapdragon 888 , Galaxy S21 FE 5G with Snapdragon 888 ,Graphite,8,256,True,Snapdragon,Snapdragon 888 ,6.4 , 32MP ,12MP + 12MP + 8MP (OIS) ,4500,32999,150735
+741,Infinix,Infinix Note 40 Pro+ 5G , Note 40 Pro+ 5G ,Racing Grey,12,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 32MP ,108MP (OIS) + 2MP + 2MP ,4600,21999,3681
+742,Vivo,Vivo T2x 5G , T2x 5G ,Sunstone Orange,4,128,True,Mediatek,Mediatek Dimensity 6020 ,6.58 , 8MP ,50MP + 2MP ,5000,11999,186627
+743,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Spectre Blue,12,512,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,35999,701
+744,Motorola,Motorola G34 5G , G34 5G ,Charcoal Black,8,128,True,Snapdragon,Snapdragon 695 5G ,6.5 , 16MP ,50MP + 2MP ,5000,11999,142514
+745,Poco,Poco C65 , C65 ,Pastel Green,8,256,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + AI Lens + 2MP ,5000,10999,12553
+746,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+747,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Spectre Blue,12,512,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,35999,701
+748,Vivo,Vivo Y200e 5G , Y200e 5G ,Saffron Delight,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.67 , 16MP ,50MP + 2MP ,5000,19999,1267
+749,Realme,Realme C53 , C53 ,Champion Black,6,128,False,Unisoc,Unisoc T612 ,6.74 , 8MP ,108MP + 2MP ,5000,11999,134155
+750,Oppo,Oppo Reno 12 5G , Reno 12 5G ,Matte Brown,8,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.7 , 32MP ,50MP + 8MP + 2MP ,5000,32999,1039
+751,Samsung,Samsung Galaxy F15 5G , Galaxy F15 5G ,Ash Black,6,128,True,Unisoc,Unisoc Mediatek MediaTek Dimensity 6100+ ,6.5 , 13MP ,50MP + 5MP + 2MP ,6000,13499,30102
+755,Poco,Poco M4 Pro , M4 Pro ,Cool Blue,6,64,False,Mediatek,Mediatek Helio G96 ,6.43 , 16MP ,64MP + 8MP + 2MP ,5000,9999,189594
+756,Vivo,Vivo V30e , V30e ,Silk Blue,8,256,False,Snapdragon,Snapdragon 6 Gen 1 ,6.78 , 50MP ,50MP + 8MP ,5500,27999,5467
+757,Motorola,Motorola Edge 50 Pro 5G with 68W Charger , Edge 50 Pro 5G with 68W Charger ,Moonlight Pearl,8,256,True,Snapdragon,Snapdragon 7 Gen 3 Mobile Platform ,6.7 , 50MP ,50MP + 13MP + 10MP ,4500,27999,33123
+760,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Onyx Black,8,256,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,64887,1607
+761,Samsung,Samsung Galaxy S21 FE 5G with Snapdragon 888 , Galaxy S21 FE 5G with Snapdragon 888 ,Graphite,8,128,True,Snapdragon,Snapdragon 888 ,6.4 , 32MP ,12MP + 12MP + 8MP (OIS) ,4500,45999,150735
+762,Google,Google Pixel 7 Pro , Pixel 7 Pro ,Hazel,12,128,False,Unisoc,Unisoc Google Tensor G2 ,6.7 , 10.8MP ,50MP + 48MP + 12MP ,4926,44999,7262
+763,Redmi,Redmi Note 14 Pro+ 5G , Note 14 Pro+ 5G ,Titan Black,8,256,True,Snapdragon,Snapdragon 7s Gen 3 ,6.67 , 20MP ,50MP + 50MP + 8MP ,6200,32999,750
+764,Vivo,Vivo Y58 5G , Y58 5G ,Himalayan Blue,8,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.72 , 8MP ,50MP + 2MP ,6000,16988,499
+765,Vivo,Vivo Y300 Plus 5G , Y300 Plus 5G ,Silk Green,8,128,True,Snapdragon,Snapdragon 695 ,6.78 , 32MP ,50MP + 2MP ,5000,23999,194
+766,Redmi,Redmi A3 , A3 ,Midnight Black,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,6990,2950
+767,Google,Google Pixel 8 Pro , Pixel 8 Pro ,Obsidian,12,256,False,Unisoc,Unisoc Tensor G3 ,6.7 , 10.5MP ,50MP + 48MP + 48MP ,5050,81999,1013
+770,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+772,Oppo,Oppo Reno10 Pro 5G , Reno10 Pro 5G ,Glossy Purple,12,256,True,Snapdragon,Snapdragon 778G 5G ,6.7 , 32MP ,50MP + 32MP + 8MP ,4600,37999,11208
+773,Samsung,Samsung Galaxy F14 5G , Galaxy F14 5G ,OMG Black,6,128,True,Exynos,"Exynos 1330, Octa Core ",6.6 , 13MP ,50MP + 2MP ,6000,13490,126270
+774,Samsung,Samsung Galaxy S25 Ultra 5G , Galaxy S25 Ultra 5G ,Titanium Black,12,256,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.9 , 12MP ,200MP + 50MP + 50MP + 10MP ,5000,129999,5633
+775,Infinix,Infinix HOT 30 5G , HOT 30 5G ,Knight Black,4,128,True,Mediatek,Mediatek Dimensity 6020 5G ,6.78 , 8MP ,50 MP + AI Lens ,6000,12499,9605
+776,Iqoo,Iqoo Z7 Pro 5G , Z7 Pro 5G ,Graphite Matte,8,256,True,Mediatek,Mediatek Dimensity 7200 5G Mobile Platform ,6.78 , 16MP ,64MP + 2MP ,4600,21999,382
+777,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Textured Titanium,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,20999,91
+778,Tecno,Tecno Camon 30 5G , Camon 30 5G ,Uyuni Salt White,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 50MP ,50MP + 2MP ,5000,19999,2950
+779,Redmi,Redmi A3 , A3 ,Lake Blue,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,7289,21179
+780,Redmi,Redmi 13 5G , 13 5G ,Black Diamond,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,14021
+783,Poco,Poco X7 Pro 5G , X7 Pro 5G ,Nebula Green,12,256,True,Mediatek,Mediatek Dimensity D8400 Ultra ,6.67 , 20MP ,50MP + 8MP ,6550,29999,9563
+784,Vivo,Vivo V29 5G , V29 5G ,Red,8,128,True,Snapdragon,Snapdragon 778G ,6.78 , 50MP ,50MP + 8MP + 2MP ,4600,31949,360394
+785,Redmi,Redmi 7A , 7A ,Matte Blue,2,16,False,Snapdragon, Snapdragon 439 ,5.45 , 5MP ,12MP Rear Camera ,4000,6499,21179
+786,Redmi,Redmi 13 5G , 13 5G ,Hawaiian Blue,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,14036
+787,Redmi,Redmi A1+ , A1+ ,Black,3,32,False,Mediatek,Mediatek Helio A22 ,6.52 , 5MP ,8MP Rear Camera ,5000,7799,823
+789,Infinix,Infinix Zero Flip 5G , Zero Flip 5G ,Rock Black,8,512,True,Mediatek,Mediatek Dimensity 8020 ,6.9 , 50MP ,50MP + 50MP ,4720,49999,26
+791,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Shadow Black,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,39999,0
+792,Realme,Realme 13 5G , 13 5G ,Speed Green,8,256,True,Mediatek,Mediatek Dimensity 6300 ,6.72 , 16MP ,50MP + 2MP ,5000,19999,734
+793,Realme,Realme GT 5G , GT 5G ,Dashing Blue,8,128,True,Snapdragon, Snapdragon 888 ,6.43 , 16MP ,64MP + 8MP + 2MP ,4500,26990,1520
+794,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Matcha Green,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,39999,1186
+795,Vivo,Vivo Y200 Pro 5G , Y200 Pro 5G ,Silk Green,8,128,True,Snapdragon,Snapdragon 695 ,6.78 , 16MP ,64MP + 2MP ,5000,24999,393
+796,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+798,Vivo,Vivo Y22 , Y22 ,Metaverse Green,6,128,False,Mediatek,Mediatek Helio G70 ,6.55 , 8MP ,50MP + 2MP ,5000,11990,1939
+799,Oppo,Oppo A59 5G , A59 5G ,Starry Black,6,128,True,Mediatek,Mediatek Dimensity 6020 ,6.56 , 8MP ,13MP + 2MP ,5000,15499,2614
+800,Redmi,Redmi A2 , A2 ,Classic Black,2,64,False,Mediatek,Mediatek Helio G36 ,6.52 , 5MP ,8MP Rear Camera ,5000,6999,17620
+801,Poco,Poco M4 Pro , M4 Pro ,Cool Blue,6,64,False,Mediatek,Mediatek Helio G96 ,6.43 , 16MP ,64MP + 8MP + 2MP ,5000,9999,189594
+802,Google,Google Pixel 7 Pro , Pixel 7 Pro ,Hazel,12,128,False,Unisoc,Unisoc Google Tensor G2 ,6.7 , 10.8MP ,50MP + 48MP + 12MP ,4926,44999,7262
+803,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Navigator Beige,12,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,22999,12259
+804,Google,Google Pixel 8 Pro , Pixel 8 Pro ,Obsidian,12,128,False,Unisoc,Unisoc Tensor G3 ,6.7 , 10.5MP ,50MP + 48MP + 48MP ,5050,74999,1013
+805,Motorola,Motorola E7 Plus , E7 Plus ,Misty Blue,4,64,False,Snapdragon, Snapdragon 460 ,6.5 , 8MP ,48MP + 2MP ,5000,6546,49095
+808,Poco,Poco C65 , C65 ,Pastel Green,8,256,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP + AI Lens + 2MP ,5000,10999,12553
+809,Poco,Poco F5 5G , F5 5G ,Electric Blue,12,256,True,Snapdragon, Snapdragon 7+ Gen 2 (4nm) ,6.67 , 16MP ,64MP (OIS) + 8MP + 2MP ,5000,22480,5486
+810,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Navigator Beige,8,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,20999,32418
+811,Vivo,Vivo Y200 Pro 5G , Y200 Pro 5G ,Silk Black,8,128,True,Snapdragon,Snapdragon 695 ,6.78 , 16MP ,64MP + 2MP ,5000,24999,393
+812,Vivo,Vivo X90 , X90 ,Asteroid Black,8,256,False,Mediatek,Mediatek Dimensity 9200 ,6.78 , 32MP ,50MP + 12MP + 12MP ,4810,44990,1066
+813,Vivo,Vivo T2 Pro 5G , T2 Pro 5G ,New Moon Black,8,256,True,Mediatek,Mediatek Dimensity 7200 ,6.78 , 16MP ,64MP + 2MP ,4600,23999,122803
+816,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+817,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Violet,12,256,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,134999,2553
+818,Vivo,Vivo X90 , X90 ,Asteroid Black,12,256,False,Mediatek,Mediatek Dimensity 9200 ,6.78 , 32MP ,50MP + 12MP + 12MP ,4810,49990,500
+819,Redmi,Redmi 12 5G , 12 5G ,Pastel Blue,6,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.79 , 8MP ,50MP + 2MP ,5000,13999,62221
+820,Realme,Realme 10 , 10 ,Rush Black,8,128,False,Mediatek,Mediatek Helio G99 Octa Core ,6.4 , 16MP ,50MP + 2MP ,5000,12999,12811
+821,Poco,Poco M4 Pro , M4 Pro ,Power Black,6,128,False,Mediatek,Mediatek Helio G96 ,6.43 , 16MP ,64MP + 8MP + 2MP ,5000,19999,189594
+822,Realme,Realme 12 5G , 12 5G ,Twilight Purple,8,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,108MP + 2MP ,5000,17999,2398
+823,Oppo,Oppo Find X8 5G , Find X8 5G ,Star Grey,12,256,True,Mediatek,Mediatek Dimensity 9400 ,6.59 , 32MP ,50MP + 50MP + 50MP ,5630,69999,390
+824,Realme,Realme 13 5G , 13 5G ,Dark Purple,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.72 , 16MP ,50MP + 2MP ,5000,17999,734
+825,Realme,Realme 13 5G , 13 5G ,Speed Green,8,128,True,Mediatek,Mediatek Dimensity 6300 ,6.72 , 16MP ,50MP + 2MP ,5000,17999,734
+826,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Cruise Blue,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,39999,1186
+827,Poco,Poco X6 5G , X6 5G ,Snowstorm White,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,64MP + 8MP + 2MP ,5100,23999,11350
+828,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Racing Grey,8,256,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,19999,20185
+829,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Racing Grey,12,512,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,28999,15575
+830,Samsung,Samsung Galaxy S25 5G , Galaxy S25 5G ,Icyblue,12,256,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,80999,1623
+831,Oppo,Oppo A3 Pro 5G , A3 Pro 5G ,Moonlight Purple,8,256,True,Mediatek,Mediatek Dimensity 6300 5G Mobile Platform ,6.67 , 8MP ,50MP + 2MP ,5100,19999,27374
+832,Realme,Realme 10 , 10 ,Clash White,4,64,False,Mediatek,Mediatek Helio G99 Octa Core ,6.4 , 16MP ,50MP + 2MP ,5000,9999,55
+835,Poco,Poco F6 5G , F6 5G ,Deadpool,12,256,True,Snapdragon,Snapdragon 8s Gen3 ,6.67 , 20MP ,50MP (OIS) + 8MP ,5000,26999,740
+837,Vivo,Vivo Y35 , Y35 ,Agate Black,8,128,False,Snapdragon, Snapdragon 680 ,6.58 , 16MP ,50MP + 2MP + 2MP ,5000,13990,1443
+839,Vivo,Vivo Y18 , Y18 ,Gem Green,4,128,False,Mediatek,Mediatek Helios G85 ,6.56 , 8MP ,50MP + 0.08MP ,5000,9499,0
+840,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+842,Vivo,Vivo Y18 , Y18 ,Gem Green,4,128,False,Mediatek,Mediatek Helios G85 ,6.56 , 8MP ,50MP + 0.08MP ,5000,9499,1359
+843,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Brushed Blue,8,128,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,17999,1675
+844,Samsung,Samsung Galaxy M32 5G , Galaxy M32 5G ,Sky Blue,8,128,True,Mediatek,Mediatek Dimensity 720 5G ,6.5 , 13MP ,48MP + 8MP + 5MP + 2MP ,5000,16490,1549
+845,Poco,Poco M6 5G , M6 5G ,Polaris Green,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,10499,130614
+846,Redmi,Redmi 10 , 10 ,Midnight Black,6,128,False,Snapdragon, Snapdragon 680 ,6.7 , 5MP ,50MP + 2MP ,6000,12999,49339
+848,Motorola,Motorola G10 Power , G10 Power ,Breeze Blue,4,64,False,Snapdragon,Snapdragon 460 ,6.51 , 8MP ,48MP + 8MP + 2MP + 2MP | 8MP Front Camera6000 mAh BatterySnapdragon 460 ProcessorStock Android Experience ,6000,8999,62199
+849,Redmi,Redmi 13C , 13C ,Stardust Black,4,128,False,Mediatek,Mediatek Helio G85 ,6.74 , 8MP ,50MP Rear Camera ,5000,7199,79198
+850,Realme,Realme 12+ 5G , 12+ 5G ,Pioneer Green,8,256,True,Mediatek,Mediatek Dimensity 7050 ,6.67 , 16MP ,50MP + 8MP + 2MP ,5000,21999,19326
+851,Realme,Realme 12 5G , 12 5G ,Woodland Green,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,108MP + 2MP ,5000,16999,7890
+852,Vivo,Vivo Y22 , Y22 ,Starlit Blue,4,128,False,Mediatek,Mediatek Helio G70 ,6.55 , 8MP ,50MP + 2MP ,5000,13499,2130
+853,Vivo,Vivo Y16 , Y16 ,Drizzling Gold,4,64,False,Mediatek,Mediatek Helio P35 ,6.51 , 5MP ,13MP + 2MP ,5000,13999,8281
+854,Honor,Honor 200 5G , 200 5G ,Moonlight White,12,512,True,Snapdragon,Snapdragon 7 Gen 3 ,6.7 , 50MP ,50MP + 50MP + 12MP ,5200,32999,25
+855,Honor,Honor 200 5G , 200 5G ,Moonlight White,8,256,True,Snapdragon,Snapdragon 7 Gen 3 ,6.7 , 50MP ,50MP + 50MP + 12MP ,5200,27999,80
+857,Redmi,Redmi 10 , 10 ,Pacific Blue,4,64,False,Snapdragon, Snapdragon 680 ,6.7 , 5MP ,50MP + 2MP ,6000,10999,260026
+858,Realme,Realme C51 , C51 ,Mint Green,4,64,False,Unisoc,Unisoc T612 ,6.74 , 5MP ,50MP + 0.08MP ,5000,8999,91956
+859,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Submarine Blue,8,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,20999,32418
+860,Vivo,Vivo X90 , X90 ,Breeze Blue,8,256,False,Mediatek,Mediatek Dimensity 9200 ,6.78 , 32MP ,50MP + 12MP + 12MP ,4810,44990,1066
+861,Samsung,Samsung Galaxy S25 Plus 5G , Galaxy S25 Plus 5G ,Silver Shadow,12,512,True,Snapdragon,Snapdragon 8 Elite for Galaxy ,6.7 , 12MP ,50MP + 10MP + 12MP ,4900,99999,95
+863,Samsung,Samsung Galaxy S24 Ultra 5G , Galaxy S24 Ultra 5G ,Titanium Violet,12,512,True,Snapdragon,Snapdragon 8 Gen 3 ,6.8 , 12MP ,200MP + 50MP + 12MP + 10MP ,5000,144999,0
+864,Redmi,Redmi 13 5G , 13 5G ,Black Diamond,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,21179
+865,Vivo,Vivo V40 Pro 5G , V40 Pro 5G ,Titanium Grey,8,256,True,Mediatek,Mediatek Dimensity 9200+ ,6.78 , 50MP ,50MP + 50MP + 50MP ,5500,49999,969
+866,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+867,Vivo,Vivo X90 , X90 ,Breeze Blue,12,256,False,Mediatek,Mediatek Dimensity 9200 ,6.78 , 32MP ,50MP + 12MP + 12MP ,4810,49990,500
+868,Realme,Realme C51 , C51 ,Mint Green,4,128,False,Unisoc,Unisoc T612 ,6.74 , 5MP ,50MP + 0.08MP ,5000,9499,91956
+869,Poco,Poco X6 5G , X6 5G ,Snowstorm White,12,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,64MP + 8MP + 2MP ,5100,23999,11350
+870,Redmi,Redmi 10 , 10 ,Pacific Blue,4,64,False,Snapdragon, Snapdragon 680 ,6.7 , 5MP ,50MP + 2MP ,6000,10999,260026
+872,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Textured Titanium,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,13999,382
+873,Redmi,Redmi 12 5G , 12 5G ,Pastel Blue,6,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.79 , 8MP ,50MP + 2MP ,5000,17999,62221
+875,Infinix,Infinix HOT 12 Play , HOT 12 Play ,Racing Black,4,64,False,Unisoc,Unisoc T610 ,6.82 , 8MP ,13MP + Depth Lens ,6000,7289,122406
+876,Redmi,Redmi A3 , A3 ,Lake Blue,3,64,False,Mediatek,Mediatek Helio G36 ,6.71 , 5MP ,8MP Rear Camera ,5000,18999,2950
+877,Poco,Poco X3 Pro , X3 Pro ,Steel Blue,6,128,False,Snapdragon, Snapdragon 860 ,6.67 , 20MP ,48MP + 8MP + 2MP + 2MP ,5160,59990,138222
+879,Poco,Poco X3 Pro , X3 Pro ,Steel Blue,8,128,False,Snapdragon, Snapdragon 860 ,6.67 , 20MP ,48MP + 8MP + 2MP + 2MP ,5160,8999,57293
+880,Realme,Realme C51 , C51 ,Mint Green,4,64,False,Unisoc,Unisoc T612 ,6.74 , 5MP ,50MP + 0.08MP ,5000,20999,91956
+881,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Submarine Blue,8,256,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,23870,32418
+883,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Cobalt Violet,8,256,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,41999,1607
+886,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Navigator Beige,8,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,29999,32418
+888,Tecno,Tecno Camon 30 5G , Camon 30 5G ,Uyuni Salt White,8,256,True,Mediatek,Mediatek Dimensity 7020 ,6.78 , 50MP ,50MP + 2MP ,5000,19999,91
+889,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Textured Titanium,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,20999,382
+890,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+892,Poco,Poco X7 Pro 5G , X7 Pro 5G ,Nebula Green,12,256,True,Mediatek,Mediatek Dimensity D8400 Ultra ,6.67 , 20MP ,50MP + 8MP ,6550,29999,796
+893,Vivo,Vivo Y200 5G , Y200 5G ,Jungle Green,8,256,True,Snapdragon,Snapdragon 4 Gen 1 ,6.67 , 16MP ,64MP + 2MP ,4800,21999,3199
+894,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Shadow Black,8,256,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,39999,1186
+896,Vivo,Vivo V23 Pro 5G , V23 Pro 5G ,Sunshine Gold,8,128,True,Mediatek,Mediatek Dimensity 1200 ,6.56 , 50MP + 8MP Dual ,108MP + 8MP + 2MP ,4300,27990,4211
+897,Redmi,Redmi 7A , 7A ,Matte Blue,2,16,False,Snapdragon, Snapdragon 439 ,5.45 , 5MP ,12MP Rear Camera ,4000,6499,360394
+898,Redmi,Redmi 13 5G , 13 5G ,Hawaiian Blue,6,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,21179
+899,Redmi,Redmi A1+ , A1+ ,Black,3,32,False,Mediatek,Mediatek Helio A22 ,6.52 , 5MP ,8MP Rear Camera ,5000,7799,14036
+900,Vivo,Vivo V29 5G , V29 5G ,Red,8,128,True,Snapdragon,Snapdragon 778G ,6.78 , 50MP ,50MP + 8MP + 2MP ,4600,31949,9563
+901,Realme,Realme 12 Pro 5G , 12 Pro 5G ,Navigator Beige,8,128,True,Snapdragon,Snapdragon 6 Gen 1 ,6.7 , 16MP ,50MP + 8MP + 32MP ,5000,19999,32418
+902,Poco,Poco X6 5G , X6 5G ,Snowstorm White,12,512,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,64MP + 8MP + 2MP ,5100,24999,11350
+905,Infinix,Infinix Zero Flip 5G , Zero Flip 5G ,Rock Black,8,512,True,Mediatek,Mediatek Dimensity 8020 ,6.9 , 50MP ,50MP + 50MP ,4720,49999,145
+906,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Shadow Black,12,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,43999,524
+908,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Panda White,12,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,44999,524
+909,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Brushed Blue,12,256,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,20999,382
+910,Vivo,Vivo T2 5G , T2 5G ,Nitro Blaze,6,128,True,Snapdragon,Snapdragon 695 ,6.38 , 16MP ,64 MP (OIS) + 2MP ,4500,15999,113236
+911,Realme,Realme C67 5G , C67 5G ,Sunny Oasis,6,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,14999,1363
+912,Redmi,Redmi Note 5 Pro , Note 5 Pro ,Black,4,64,False,Snapdragon, Snapdragon 636 ,5.99 , 20MP ,12MP + 5MP ,4000,9999,1168969
+913,Poco,Poco M6 5G , M6 5G ,Galactic Black,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.74 , 5MP ,50MP Rear Camera ,5000,10499,130614
+916,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+917,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Marble Gray,8,256,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,57999,1607
+918,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion White,12,512,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,28999,10013
+919,Samsung,Samsung Galaxy S21 FE 5G with Snapdragon 888 , Galaxy S21 FE 5G with Snapdragon 888 ,Olive,8,128,True,Snapdragon,Snapdragon 888 ,6.4 , 32MP ,12MP + 12MP + 8MP (OIS) ,4500,45999,150735
+920,Samsung,Samsung Galaxy F14 5G , Galaxy F14 5G ,B.A.E. Purple,6,128,True,Exynos,"Exynos 1330, Octa Core ",6.6 , 13MP ,50MP + 2MP ,6000,13490,126270
+921,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion Purple,12,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,23849,10013
+922,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Cobalt Violet,8,256,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,70999,1607
+923,Samsung,Samsung Galaxy F34 5G , Galaxy F34 5G ,Mystic Green,6,128,True,Exynos,Exynos 1280 ,6.5 , 13MP ,50MP (OIS) + 8MP + 2MP ,6000,19999,46596
+925,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion White,8,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,24999,16089
+926,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion White,12,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,26999,10013
+928,Vivo,Vivo Y200 5G , Y200 5G ,Desert Gold,8,256,True,Snapdragon,Snapdragon 4 Gen 1 ,6.67 , 16MP ,64MP + 2MP ,4800,21999,3199
+929,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Ice Silver,6,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,11499,23989
+930,Xiaomi,Xiaomi 14 CIVI , 14 CIVI ,Hot Pink,12,512,False,Snapdragon,Snapdragon 8s Gen 3 Mobile Platform ,6.55 , 32MP + 32MP Dual ,50MP Rear Camera ,4700,44999,524
+931,Redmi,Redmi Note 13 Pro+ 5G , Note 13 Pro+ 5G ,Fusion White,12,256,True,Mediatek,Mediatek Dimensity 7200 Ultra 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5000,24508,10013
+932,Redmi,Redmi 13 5G , 13 5G ,Orchid Pink,8,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,13999,4735
+933,Redmi,Redmi 13 5G , 13 5G ,Hawaiian Blue,8,128,True,Snapdragon,Snapdragon 4 Gen 2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,13999,4735
+934,Oppo,Oppo Reno10 Pro 5G , Reno10 Pro 5G ,Silvery Grey,12,256,True,Snapdragon,Snapdragon 778G 5G ,6.7 , 32MP ,50MP + 32MP + 8MP ,4600,37999,11208
+935,Vivo,Vivo Y300 Plus 5G , Y300 Plus 5G ,Silk Black,8,128,True,Snapdragon,Snapdragon 695 ,6.78 , 32MP ,50MP + 2MP ,5000,23999,194
+936,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+937,Vivo,Vivo Y200 5G , Y200 5G ,Desert Gold,8,256,True,Snapdragon,Snapdragon 4 Gen 1 ,6.67 , 16MP ,64MP + 2MP ,4800,20988,3199
+938,Vivo,Vivo T2 5G , T2 5G ,Nitro Blaze,8,128,True,Snapdragon,Snapdragon 695 ,6.38 , 16MP ,64 MP (OIS) + 2MP ,4500,17999,19999
+939,Redmi,Redmi 12 5G , 12 5G ,Jade Black,6,128,True,Snapdragon,Snapdragon 4 Gen 2 ,6.79 , 8MP ,50MP + 2MP ,5000,13799,62221
+941,Redmi,Redmi 10 , 10 ,Midnight Black,4,64,False,Snapdragon, Snapdragon 680 ,6.7 , 5MP ,50MP + 2MP ,6000,10999,260026
+942,Tecno,Tecno Spark 30C , Spark 30C ,Midnight Shadow,4,128,False,Mediatek,Mediatek D6300 ,6.67 , 8MP ,48MP Rear Camera ,5000,10498,218
+943,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Misty Lavender,8,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,12499,4975
+944,Realme,Realme NARZO 70X 5G , NARZO 70X 5G ,ICE BLUE,4,128,True,Mediatek,Mediatek Dimensity 6100+ 5G Chipset ,6.72 , 8MP ,50MP Rear Camera ,5000,12025,1115
+945,Redmi,Redmi Note 12 Pro 5G , Note 12 Pro 5G ,Glacier Blue,12,256,True,Mediatek,Mediatek Dimensity 1080 ,6.67 , 16MP ,50MP (OIS) + 8MP + 2MP ,5000,19990,2574
+946,Realme,Realme P1 Speed 5G , P1 Speed 5G ,Textured Titanium,8,128,True,Mediatek,Mediatek Dimensity 7300 Energy ,6.67 , 16MP ,50MP + 2MP ,5000,17999,1675
+949,Redmi,Redmi Note 13 Pro 5G , Note 13 Pro 5G ,Coral Purple,8,256,True,Snapdragon,Snapdragon 7s Gen 2 Mobile Platform 5G ,6.67 , 16MP ,200MP (OIS) + 8MP + 2MP ,5100,20899,33371
+950,Redmi,Redmi 12C , 12C ,Mint Green,6,128,False,Mediatek,Mediatek Helio G85 ,6.71 , 5MP ,50MP Rear Camera ,5000,9999,5107
+951,Redmi,Redmi 12C , 12C ,Matte Black,6,128,False,Mediatek,Mediatek Helio G85 ,6.71 , 5MP ,50MP Rear Camera ,5000,15999,5107
+952,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Misty Lavender,6,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,11499,23989
+953,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Spectre Black,12,512,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,28999,15575
+954,Samsung,Samsung Galaxy S24 5G , Galaxy S24 5G ,Amber Yellow,8,128,True,Exynos,Exynos 2400 ,6.2 , 12MP ,50MP + 10MP + 12MP ,4000,54000,1607
+955,Micromax,Micromax IN 2B , IN 2B ,Blue,4,64,False,Unisoc,Unisoc T610 ,6.52 , 5MP ,13MP + 2MP ,5000,10499,25577
+957,Poco,Poco M4 Pro , M4 Pro ,Cool Blue,6,128,False,Mediatek,Mediatek Helio G96 ,6.43 , 16MP ,64MP + 8MP + 2MP ,5000,11099,189594
+958,Samsung,Samsung Galaxy F12 , Galaxy F12 ,Sky Blue,4,128,False,Exynos,Exynos 850 ,6.515 , 8MP ,48MP + 5MP + 2MP + 2MP ,6000,11499,302584
+959,Vivo,Vivo V25 Pro 5G , V25 Pro 5G ,Sailing Blue,8,128,True,Mediatek,Mediatek Dimensity 1300 ,6.56 , 32MP ,64MP + 8MP + 2MP ,4830,35999,7619
+960,Realme,Realme P2 Pro 5G , P2 Pro 5G ,Parrot Green,12,256,True,Snapdragon,Snapdragon 7s Gen2 ,6.7 , 32MP ,50MP + 8MP ,5200,21999,4885
+962,Realme,Realme C67 5G , C67 5G ,Dark Purple,4,128,True,Mediatek,Mediatek Dimensity 6100+ ,6.72 , 8MP ,50MP + 2MP ,5000,13999,7749
+963,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Spectre Black,8,256,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,26999,20185
+964,Poco,Poco X6 Pro 5G , X6 Pro 5G ,Spectre Black,12,512,True,Mediatek,Mediatek Dimensity D8300 Ultra ,6.67 , 16MP ,64MP + 8MP + 2MP ,5000,28999,15575
+965,Vivo,Vivo Y22 , Y22 ,Starlit Blue,4,64,False,Mediatek,Mediatek Helio G70 ,6.55 , 8MP ,50MP + 2MP ,5000,14499,2130
+967,Samsung,Samsung Galaxy F12 , Galaxy F12 ,Sea Green,4,64,False,Exynos,Exynos 850 ,6.515 , 8MP ,48MP + 5MP + 2MP + 2MP ,6000,10499,302584
+968,Samsung,Samsung Galaxy F12 , Galaxy F12 ,Celestial Black,4,64,False,Exynos,Exynos 850 ,6.515 , 8MP ,48MP + 5MP + 2MP + 2MP ,6000,10499,302584
+969,Google,Google Pixel 8 Pro , Pixel 8 Pro ,Bay,12,128,False,Unisoc,Unisoc Tensor G3 ,6.7 , 10.5MP ,50MP + 48MP + 48MP ,5050,74999,1013
+970,Samsung,Samsung Galaxy F23 5G , Galaxy F23 5G ,Aqua Blue,4,128,True,Snapdragon, Snapdragon 750G ,6.6 , 8MP ,50MP + 8MP + 2MP ,5000,17499,49158
+972,Vivo,Vivo Y18 , Y18 ,Space Black,4,64,False,Mediatek,Mediatek Helios G85 ,6.56 , 8MP ,50MP + 0.08MP ,5000,19999,1359
+973,Samsung,Samsung Galaxy F34 5G , Galaxy F34 5G ,Mystic Green,6,128,True,Exynos,Exynos 1280 ,6.5 , 13MP ,50MP (OIS) + 8MP + 2MP ,6000,9999,46596
+974,Realme,Realme 10 , 10 ,Rush Black,4,64,False,Mediatek,Mediatek Helio G99 Octa Core ,6.4 , 16MP ,50MP + 2MP ,5000,11499,27374
+975,Poco,Poco M6 Plus 5G , M6 Plus 5G ,Graphite Black,6,128,True,Snapdragon,Snapdragon 4 Gen2 AE ,6.79 , 13MP ,108MP + 2MP ,5030,54999,23989
+978,Vivo,Vivo V25 Pro 5G , V25 Pro 5G ,Sailing Blue,8,128,True,Mediatek,Mediatek Dimensity 1300 ,6.56 , 32MP ,64MP + 8MP + 2MP ,4830,14180,7619
+980,Mi,Mi 11 Lite , 11 Lite ,Vinyl Black,6,128,False,Snapdragon, Snapdragon 732G ,6.55 , 16MP ,64MP + 8MP + 5MP ,4250,23999,13262
+981,Mi,Mi 11 Lite , 11 Lite ,Vinyl Black,8,128,False,Snapdragon, Snapdragon 732G ,6.55 , 16MP ,64MP + 8MP + 5MP ,4250,14499,6425
+982,Poco,Poco M5 , M5 ,Yellow,6,128,False,Mediatek,Mediatek Helio G99 ,6.58 , 8MP ,50MP + 2MP Depth Sensor + 2MP Macro Sensor ,5000,12999,21195
